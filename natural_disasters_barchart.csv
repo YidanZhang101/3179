@@ -1,0 +1,2981 @@
+,Entity,Year,Disasters,Deaths
+1,Afghanistan,1950,Earthquakes,210
+2,Afghanistan,1950,Floods,5.1
+3,Afghanistan,1960,Floods,10.7
+4,Afghanistan,1970,Earthquakes,6.1
+5,Afghanistan,1970,Floods,32.1
+6,Afghanistan,1970,Landslides,10
+7,Afghanistan,1980,Earthquakes,51.3
+8,Afghanistan,1980,Landslides,7
+9,Afghanistan,1990,Earthquakes,742.6
+10,Afghanistan,1990,Floods,199
+11,Afghanistan,1990,Storms,1
+12,Afghanistan,1990,Landslides,73.9
+13,Afghanistan,1990,ExtremeTemperature,22.4
+14,Afghanistan,2000,Drought,3.7
+15,Afghanistan,2000,Earthquakes,123.6
+16,Afghanistan,2000,Floods,117.5
+17,Afghanistan,2000,Storms,33.1
+18,Afghanistan,2000,Landslides,4.3
+19,Afghanistan,2000,ExtremeTemperature,166.5
+20,Afghanistan,2010,Earthquakes,21.7
+21,Afghanistan,2010,Floods,137
+22,Afghanistan,2010,Storms,15.1
+23,Afghanistan,2010,Landslides,84.8
+24,Afghanistan,2010,ExtremeTemperature,4.5
+25,Africa,1900,Drought,1100
+26,Africa,1900,Earthquakes,10
+27,Africa,1900,VolcanicActivities,1.7
+28,Africa,1910,Drought,8500
+29,Africa,1910,Earthquakes,1.2
+30,Africa,1920,Drought,2400
+31,Africa,1920,Earthquakes,1.2
+32,Africa,1920,Floods,300
+33,Africa,1930,Earthquakes,2.2
+34,Africa,1940,Drought,5000
+35,Africa,1940,Earthquakes,27.6
+36,Africa,1940,Storms,16.5
+37,Africa,1950,Earthquakes,128.3
+38,Africa,1950,Floods,23.7
+39,Africa,1950,Storms,64.2
+40,Africa,1960,Drought,205
+41,Africa,1960,Earthquakes,1257.7
+42,Africa,1960,Floods,134.3
+43,Africa,1960,Storms,15.2
+44,Africa,1960,Landslides,30.8
+45,Africa,1970,Drought,11900
+46,Africa,1970,VolcanicActivities,21.2
+47,Africa,1970,Floods,132.8
+48,Africa,1970,Storms,41.5
+49,Africa,1970,Wildfires,0.2
+50,Africa,1980,Drought,55495.4
+51,Africa,1980,Earthquakes,297
+52,Africa,1980,VolcanicActivities,178.3
+53,Africa,1980,Floods,165
+54,Africa,1980,MassMovements,7.7
+55,Africa,1980,Storms,108
+56,Africa,1980,Landslides,1.1
+57,Africa,1980,Wildfires,0.4
+58,Africa,1990,Drought,23.9
+59,Africa,1990,Earthquakes,79.9
+60,Africa,1990,Floods,731.7
+61,Africa,1990,MassMovements,4.7
+62,Africa,1990,Storms,113
+63,Africa,1990,Landslides,17.8
+64,Africa,1990,Wildfires,10.6
+65,Africa,1990,ExtremeTemperature,10.2
+66,Africa,2000,Drought,88.8
+67,Africa,2000,Earthquakes,333.5
+68,Africa,2000,VolcanicActivities,20.6
+69,Africa,2000,Floods,794.8
+70,Africa,2000,MassMovements,9.8
+71,Africa,2000,Storms,127.3
+72,Africa,2000,Landslides,20.2
+73,Africa,2000,Wildfires,15.4
+74,Africa,2000,ExtremeTemperature,12.5
+75,Africa,2010,Drought,2000
+76,Africa,2010,Earthquakes,3.1
+77,Africa,2010,Floods,724.5
+78,Africa,2010,Storms,291.6
+79,Africa,2010,Landslides,242.5
+80,Africa,2010,Wildfires,7.1
+81,Africa,2010,ExtremeTemperature,14.5
+82,Albania,1900,Earthquakes,12
+83,Albania,1920,Earthquakes,20
+84,Albania,1930,Earthquakes,15
+85,Albania,1940,Earthquakes,4.3
+86,Albania,1960,Earthquakes,2.6
+87,Albania,1970,Earthquakes,3.5
+88,Albania,1980,Earthquakes,0.1
+89,Albania,1980,Landslides,5.7
+90,Albania,1980,ExtremeTemperature,6.8
+91,Albania,1990,Floods,1.5
+92,Albania,2000,Floods,0.4
+93,Albania,2000,Storms,0.8
+94,Albania,2000,ExtremeTemperature,0.3
+95,Albania,2010,Earthquakes,5.1
+96,Albania,2010,Floods,0.4
+97,Albania,2010,ExtremeTemperature,1.1
+98,Algeria,1910,Earthquakes,1.2
+99,Algeria,1920,Floods,300
+100,Algeria,1940,Earthquakes,27.6
+101,Algeria,1950,Earthquakes,125
+102,Algeria,1950,Floods,2.5
+103,Algeria,1960,Earthquakes,6.9
+104,Algeria,1960,Floods,15.3
+105,Algeria,1970,Floods,3.2
+106,Algeria,1980,Earthquakes,268.6
+107,Algeria,1980,Floods,16
+108,Algeria,1990,Earthquakes,19.3
+109,Algeria,1990,Floods,10.3
+110,Algeria,1990,Landslides,1.5
+111,Algeria,1990,Wildfires,2.2
+112,Algeria,2000,Earthquakes,227.9
+113,Algeria,2000,Floods,131.2
+114,Algeria,2000,Storms,2.7
+115,Algeria,2000,Wildfires,0.8
+116,Algeria,2000,ExtremeTemperature,4
+117,Algeria,2010,Earthquakes,0.6
+118,Algeria,2010,Floods,9.7
+119,Algeria,2010,ExtremeTemperature,0.8
+120,American Samoa,1960,Storms,9
+121,American Samoa,2000,Earthquakes,3.4
+122,American Samoa,2000,Floods,0.6
+123,Angola,2000,Drought,5.8
+124,Angola,2000,Floods,32.8
+125,Angola,2000,Landslides,1.3
+126,Angola,2010,Floods,44.2
+127,Anguilla,1960,Storms,0.5
+128,Anguilla,2010,Storms,0.4
+129,Antigua and Barbuda,1950,Storms,0.2
+130,Antigua and Barbuda,1960,Storms,0.2
+131,Antigua and Barbuda,1980,Storms,0.2
+132,Antigua and Barbuda,1990,Storms,0.6
+133,Antigua and Barbuda,2010,Storms,0.1
+134,Argentina,1920,Earthquakes,40
+135,Argentina,1940,Earthquakes,1000
+136,Argentina,1950,Floods,36
+137,Argentina,1960,Floods,11.8
+138,Argentina,1960,Landslides,4.5
+139,Argentina,1970,Earthquakes,7
+140,Argentina,1970,Floods,3.6
+141,Argentina,1970,Storms,18.5
+142,Argentina,1970,ExtremeTemperature,10
+143,Argentina,1980,Earthquakes,0.6
+144,Argentina,1980,Floods,10.6
+145,Argentina,1980,Storms,0.2
+146,Argentina,1980,Landslides,3
+147,Argentina,1990,Floods,8.5
+148,Argentina,1990,Storms,2.1
+149,Argentina,1990,Wildfires,2.4
+150,Argentina,2000,Floods,7.3
+151,Argentina,2000,Storms,5.7
+152,Argentina,2000,Landslides,0.4
+153,Argentina,2000,Wildfires,0.8
+154,Argentina,2000,ExtremeTemperature,4.3
+155,Argentina,2010,Drought,0.8
+156,Argentina,2010,Floods,7.9
+157,Argentina,2010,Storms,3.3
+158,Argentina,2010,Landslides,2.4
+159,Argentina,2010,ExtremeTemperature,4.2
+160,Armenia,1930,Earthquakes,289
+161,Armenia,1990,Floods,0.4
+162,Armenia,2000,Floods,0.1
+163,Asia,1900,Drought,125000
+164,Asia,1900,Earthquakes,4842.9
+165,Asia,1900,VolcanicActivities,15.5
+166,Asia,1900,Storms,1101.2
+167,Asia,1910,Earthquakes,3473.4
+168,Asia,1910,VolcanicActivities,647.5
+169,Asia,1910,Floods,10137.9
+170,Asia,1910,Storms,5630
+171,Asia,1920,Drought,350000
+172,Asia,1920,Earthquakes,38548.6
+173,Asia,1920,VolcanicActivities,14.4
+174,Asia,1920,Floods,3.6
+175,Asia,1920,Storms,11381.9
+176,Asia,1920,Landslides,20
+177,Asia,1930,Earthquakes,13111.9
+178,Asia,1930,VolcanicActivities,266.9
+179,Asia,1930,Floods,436093.3
+180,Asia,1930,Storms,7772.8
+181,Asia,1930,Landslides,50
+182,Asia,1940,Drought,340000
+183,Asia,1940,Earthquakes,3395.3
+184,Asia,1940,Floods,6065.2
+185,Asia,1940,Storms,12554.9
+186,Asia,1940,Landslides,50
+187,Asia,1950,Earthquakes,1439.2
+188,Asia,1950,VolcanicActivities,195
+189,Asia,1950,Floods,205570.1
+190,Asia,1950,Storms,2502.5
+191,Asia,1950,Landslides,77.8
+192,Asia,1950,ExtremeTemperature,132
+193,Asia,1960,Drought,150800
+194,Asia,1960,Earthquakes,3054.9
+195,Asia,1960,VolcanicActivities,313.6
+196,Asia,1960,Floods,2596.6
+197,Asia,1960,MassMovements,15
+198,Asia,1960,Storms,12052.5
+199,Asia,1960,Landslides,135
+200,Asia,1960,ExtremeTemperature,50
+201,Asia,1970,Drought,8.1
+202,Asia,1970,Earthquakes,32729.5
+203,Asia,1970,VolcanicActivities,30
+204,Asia,1970,Floods,6465.6
+205,Asia,1970,Storms,34436.1
+206,Asia,1970,Landslides,131.8
+207,Asia,1970,ExtremeTemperature,89.5
+208,Asia,1980,Drought,229.4
+209,Asia,1980,Earthquakes,890.3
+210,Asia,1980,VolcanicActivities,22.9
+211,Asia,1980,Floods,4194.4
+212,Asia,1980,MassMovements,87.3
+213,Asia,1980,Storms,4011.1
+214,Asia,1980,Landslides,293.7
+215,Asia,1980,Wildfires,21.2
+216,Asia,1980,ExtremeTemperature,233.6
+217,Asia,1990,Drought,282.3
+218,Asia,1990,Earthquakes,9539.3
+219,Asia,1990,VolcanicActivities,89.6
+220,Asia,1990,Floods,5301.6
+221,Asia,1990,MassMovements,46.8
+222,Asia,1990,Storms,18449
+223,Asia,1990,Landslides,530.7
+224,Asia,1990,Wildfires,47.3
+225,Asia,1990,ExtremeTemperature,594.7
+226,Asia,2000,Drought,19.1
+227,Asia,2000,Earthquakes,44765.3
+228,Asia,2000,VolcanicActivities,0.8
+229,Asia,2000,Floods,3714.8
+230,Asia,2000,MassMovements,6.6
+231,Asia,2000,Storms,16007.1
+232,Asia,2000,Landslides,613.1
+233,Asia,2000,Wildfires,0.5
+234,Asia,2000,ExtremeTemperature,908.7
+235,Asia,2010,Drought,8.8
+236,Asia,2010,Earthquakes,4225.1
+237,Asia,2010,VolcanicActivities,88.1
+238,Asia,2010,Floods,3723.1
+239,Asia,2010,MassMovements,9.2
+240,Asia,2010,Storms,1968.6
+241,Asia,2010,Landslides,601.6
+242,Asia,2010,Wildfires,15.1
+243,Asia,2010,ExtremeTemperature,753.3
+244,Australia,1930,Wildfires,7.1
+245,Australia,1940,Wildfires,4.9
+246,Australia,1950,Floods,7
+247,Australia,1960,Drought,60
+248,Australia,1960,Wildfires,7.4
+249,Australia,1970,Floods,6
+250,Australia,1970,Storms,11.2
+251,Australia,1970,Wildfires,0.3
+252,Australia,1980,Earthquakes,1.2
+253,Australia,1980,Floods,7.1
+254,Australia,1980,Storms,4
+255,Australia,1980,Wildfires,8.6
+256,Australia,1990,Floods,3.8
+257,Australia,1990,Storms,5.1
+258,Australia,1990,Landslides,2.8
+259,Australia,1990,Wildfires,0.7
+260,Australia,1990,ExtremeTemperature,2.3
+261,Australia,2000,Floods,3.4
+262,Australia,2000,Storms,1.2
+263,Australia,2000,Wildfires,20.2
+264,Australia,2000,ExtremeTemperature,34.7
+265,Australia,2010,Floods,4.9
+266,Australia,2010,Storms,3.3
+267,Australia,2010,Wildfires,4.1
+268,Australia,2010,ExtremeTemperature,13.9
+269,Austria,1950,Landslides,23.8
+270,Austria,1970,Landslides,1.5
+271,Austria,1980,Floods,1.2
+272,Austria,1980,Storms,1.2
+273,Austria,1980,Landslides,4.2
+274,Austria,1990,Floods,1.3
+275,Austria,1990,Storms,0.3
+276,Austria,1990,Landslides,5
+277,Austria,2000,Floods,1.4
+278,Austria,2000,Storms,0.7
+279,Austria,2000,Landslides,1.3
+280,Austria,2000,ExtremeTemperature,35.2
+281,Austria,2010,Floods,0.4
+282,Austria,2010,Storms,1.6
+283,Austria,2010,ExtremeTemperature,0.6
+284,Azerbaijan,1900,Earthquakes,8.6
+285,Azerbaijan,1990,Earthquakes,0.2
+286,Azerbaijan,1990,Floods,1.6
+287,Azerbaijan,2000,Earthquakes,3.1
+288,Azerbaijan,2000,Landslides,1.1
+289,Azerbaijan,2010,Floods,0.3
+290,Azerbaijan,2010,ExtremeTemperature,0.5
+291,Bahamas,1930,Storms,1.4
+292,Bahamas,1940,Storms,2.2
+293,Bahamas,1960,Storms,0.5
+294,Bahamas,1990,Storms,0.5
+295,Bahamas,2000,Storms,1.4
+296,Bahamas,2010,Storms,39
+297,Bangladesh,1900,Storms,17.2
+298,Bangladesh,1920,Storms,0.6
+299,Bangladesh,1940,Drought,190000
+300,Bangladesh,1940,Storms,6650
+301,Bangladesh,1950,Storms,70
+302,Bangladesh,1960,Floods,1029
+303,Bangladesh,1960,Storms,9262.3
+304,Bangladesh,1970,Drought,1.8
+305,Bangladesh,1970,Floods,2937.5
+306,Bangladesh,1970,Storms,30714.4
+307,Bangladesh,1980,Earthquakes,0.3
+308,Bangladesh,1980,Floods,706.4
+309,Bangladesh,1980,Storms,1897.7
+310,Bangladesh,1980,ExtremeTemperature,17
+311,Bangladesh,1990,Earthquakes,2.9
+312,Bangladesh,1990,Floods,294.4
+313,Bangladesh,1990,Storms,14259.4
+314,Bangladesh,1990,ExtremeTemperature,80.1
+315,Bangladesh,2000,Earthquakes,0.4
+316,Bangladesh,2000,Floods,240.4
+317,Bangladesh,2000,Storms,558.8
+318,Bangladesh,2000,Landslides,1.3
+319,Bangladesh,2000,ExtremeTemperature,133.5
+320,Bangladesh,2010,Earthquakes,0.9
+321,Bangladesh,2010,Floods,65.3
+322,Bangladesh,2010,Storms,59.2
+323,Bangladesh,2010,Landslides,25.2
+324,Bangladesh,2010,ExtremeTemperature,21.8
+325,Barbados,1950,Storms,5.7
+326,Barbados,1970,Floods,0.3
+327,Barbados,2000,Storms,0.1
+328,Barbados,2010,Storms,0.1
+329,Belarus,1990,Floods,0.2
+330,Belarus,1990,Storms,0.5
+331,Belarus,2000,ExtremeTemperature,0.5
+332,Belarus,2010,ExtremeTemperature,4.9
+333,Belgium,1900,Floods,0.6
+334,Belgium,1930,Storms,6
+335,Belgium,1950,Floods,1.5
+336,Belgium,1960,ExtremeTemperature,1.2
+337,Belgium,1980,Earthquakes,0.2
+338,Belgium,1990,Floods,0.1
+339,Belgium,1990,Storms,2.4
+340,Belgium,2000,Floods,0.2
+341,Belgium,2000,Storms,0.7
+342,Belgium,2000,ExtremeTemperature,211.8
+343,Belgium,2010,Floods,0.4
+344,Belgium,2010,Storms,0.8
+345,Belgium,2010,ExtremeTemperature,112.9
+346,Belize,1930,Storms,150
+347,Belize,1950,Storms,1.6
+348,Belize,1960,Storms,27.5
+349,Belize,1970,Storms,0.5
+350,Belize,1990,Storms,0.9
+351,Belize,2000,Floods,0.1
+352,Belize,2000,Storms,5.4
+353,Benin,1970,Wildfires,0.2
+354,Benin,1980,Floods,6.1
+355,Benin,1990,Floods,3.7
+356,Benin,2000,Floods,3.5
+357,Benin,2010,Floods,5
+358,Benin,2010,Wildfires,0.1
+359,Bermuda,2000,Storms,0.4
+360,Bhutan,1990,Floods,2.2
+361,Bhutan,1990,Storms,1.7
+362,Bhutan,2000,Earthquakes,1.1
+363,Bhutan,2000,Floods,20
+364,Bhutan,2000,Storms,1.2
+365,Bhutan,2010,Earthquakes,0.1
+366,Bolivia,1960,Floods,7.8
+367,Bolivia,1970,Floods,8.1
+368,Bolivia,1980,Floods,30.4
+369,Bolivia,1990,Earthquakes,10
+370,Bolivia,1990,Floods,6
+371,Bolivia,1990,Landslides,14.9
+372,Bolivia,1990,Wildfires,0.3
+373,Bolivia,2000,Floods,36.1
+374,Bolivia,2000,Storms,2
+375,Bolivia,2000,Landslides,6.9
+376,Bolivia,2000,ExtremeTemperature,1.5
+377,Bolivia,2010,Floods,32.3
+378,Bolivia,2010,Landslides,11.6
+379,Bolivia,2010,ExtremeTemperature,2.2
+380,Bosnia and Herzegovina,2000,Storms,0.4
+381,Bosnia and Herzegovina,2000,Landslides,0.6
+382,Bosnia and Herzegovina,2000,ExtremeTemperature,0.1
+383,Bosnia and Herzegovina,2010,Floods,3
+384,Bosnia and Herzegovina,2010,ExtremeTemperature,0.6
+385,Botswana,1980,Floods,0.8
+386,Botswana,1990,Floods,2
+387,Botswana,2000,Floods,0.3
+388,Botswana,2010,Floods,1.2
+389,Brazil,1940,Floods,20
+390,Brazil,1940,Storms,10
+391,Brazil,1950,Floods,21.2
+392,Brazil,1950,Storms,5.9
+393,Brazil,1950,Landslides,6.6
+394,Brazil,1960,Floods,181.8
+395,Brazil,1960,Storms,3.6
+396,Brazil,1960,Landslides,78.6
+397,Brazil,1960,ExtremeTemperature,11.3
+398,Brazil,1970,Floods,114.2
+399,Brazil,1970,Storms,1
+400,Brazil,1970,Landslides,12.1
+401,Brazil,1970,ExtremeTemperature,12.6
+402,Brazil,1980,Drought,2
+403,Brazil,1980,Earthquakes,0.1
+404,Brazil,1980,Floods,159.8
+405,Brazil,1980,Storms,11.6
+406,Brazil,1980,Landslides,14.3
+407,Brazil,1980,ExtremeTemperature,7.7
+408,Brazil,1990,Floods,38.6
+409,Brazil,1990,Storms,0.3
+410,Brazil,1990,Landslides,37.8
+411,Brazil,1990,Wildfires,0.1
+412,Brazil,2000,Earthquakes,0.1
+413,Brazil,2000,Floods,86.6
+414,Brazil,2000,Storms,2.6
+415,Brazil,2000,Landslides,22.1
+416,Brazil,2000,ExtremeTemperature,0.7
+417,Brazil,2010,Floods,161.6
+418,Brazil,2010,Storms,0.4
+419,Brazil,2010,Landslides,3
+420,Brazil,2010,ExtremeTemperature,3.2
+421,British Virgin Islands,2010,Storms,0.9
+422,Bulgaria,1920,Earthquakes,10.7
+423,Bulgaria,1960,Landslides,1.1
+424,Bulgaria,1970,Earthquakes,2
+425,Bulgaria,1980,Earthquakes,0.3
+426,Bulgaria,1990,Earthquakes,0.1
+427,Bulgaria,1990,ExtremeTemperature,0.3
+428,Bulgaria,2000,Floods,5.2
+429,Bulgaria,2000,Storms,0.2
+430,Bulgaria,2000,Wildfires,1
+431,Bulgaria,2000,ExtremeTemperature,3.7
+432,Bulgaria,2010,Floods,3
+433,Bulgaria,2010,Storms,0.1
+434,Bulgaria,2010,ExtremeTemperature,3.6
+435,Burkina Faso,1980,Floods,1.6
+436,Burkina Faso,1990,Floods,2.8
+437,Burkina Faso,2000,Floods,6.7
+438,Burkina Faso,2010,Floods,6.1
+439,Burundi,1980,Floods,1.2
+440,Burundi,1990,Drought,0.6
+441,Burundi,2000,Drought,12
+442,Burundi,2000,Earthquakes,0.3
+443,Burundi,2000,Floods,3.6
+444,Burundi,2010,Floods,17.2
+445,Burundi,2010,Storms,2.1
+446,Burundi,2010,Landslides,5.4
+447,Cambodia,1990,Floods,67.2
+448,Cambodia,1990,Storms,2.5
+449,Cambodia,2000,Floods,45.5
+450,Cambodia,2000,Storms,1.9
+451,Cambodia,2010,Floods,52.6
+452,Cameroon,1980,VolcanicActivities,178.3
+453,Cameroon,1980,Floods,0.2
+454,Cameroon,1990,Floods,3.2
+455,Cameroon,2000,Floods,5.2
+456,Cameroon,2000,Landslides,2
+457,Cameroon,2010,Floods,4.5
+458,Cameroon,2010,Landslides,5.4
+459,Canada,1900,MassMovements,12.7
+460,Canada,1910,Storms,2.8
+461,Canada,1910,Landslides,11.8
+462,Canada,1910,Wildfires,7.3
+463,Canada,1920,Earthquakes,2.7
+464,Canada,1920,Wildfires,4.3
+465,Canada,1930,ExtremeTemperature,50
+466,Canada,1940,Storms,1.7
+467,Canada,1950,Floods,0.1
+468,Canada,1950,MassMovements,0.3
+469,Canada,1950,Storms,8.9
+470,Canada,1960,Storms,3.3
+471,Canada,1960,Landslides,2.6
+472,Canada,1970,MassMovements,3.1
+473,Canada,1970,Storms,2.4
+474,Canada,1980,Floods,0.3
+475,Canada,1980,Storms,3.8
+476,Canada,1980,Wildfires,0.1
+477,Canada,1990,Floods,2.5
+478,Canada,1990,Storms,3.8
+479,Canada,2000,Floods,0.9
+480,Canada,2000,Storms,3.2
+481,Canada,2000,Wildfires,0.1
+482,Canada,2010,Floods,1.2
+483,Canada,2010,Storms,0.3
+484,Canada,2010,Wildfires,0.1
+485,Canada,2010,ExtremeTemperature,8
+486,Cape Verde,1900,Drought,1100
+487,Cape Verde,1920,Drought,2400
+488,Cape Verde,1940,Drought,5000
+489,Cape Verde,1980,Storms,3.2
+490,Cape Verde,2000,Floods,0.3
+491,Cape Verde,2010,Storms,0.9
+492,Cayman Islands,2000,Storms,0.2
+493,Central African Republic,1990,Floods,0.7
+494,Central African Republic,2000,Floods,0.6
+495,Central African Republic,2000,Storms,0.6
+496,Central African Republic,2000,Wildfires,0.1
+497,Central African Republic,2010,Floods,0.3
+498,Central African Republic,2010,Storms,0.2
+499,Chad,1970,Storms,1.3
+500,Chad,1980,Drought,300
+501,Chad,1980,Floods,4.3
+502,Chad,1980,Storms,1.1
+503,Chad,1990,Floods,4.1
+504,Chad,2000,Floods,17.3
+505,Chad,2000,Storms,1.4
+506,Chad,2010,Floods,4.4
+507,Chad,2010,Landslides,5.2
+508,Chile,1900,Earthquakes,2000
+509,Chile,1920,Earthquakes,122
+510,Chile,1930,Earthquakes,3000
+511,Chile,1940,Earthquakes,5.5
+512,Chile,1940,VolcanicActivities,10
+513,Chile,1950,Earthquakes,1.5
+514,Chile,1960,Earthquakes,640.4
+515,Chile,1960,VolcanicActivities,0.4
+516,Chile,1960,Floods,60
+517,Chile,1960,Storms,5.8
+518,Chile,1960,Landslides,2.6
+519,Chile,1970,Earthquakes,8.5
+520,Chile,1970,Floods,3.6
+521,Chile,1970,Storms,1.5
+522,Chile,1970,Landslides,3
+523,Chile,1980,Earthquakes,18.9
+524,Chile,1980,Floods,17.1
+525,Chile,1980,Storms,14.3
+526,Chile,1980,Landslides,3.2
+527,Chile,1990,Earthquakes,1.1
+528,Chile,1990,VolcanicActivities,0.6
+529,Chile,1990,Floods,15.9
+530,Chile,1990,Storms,0.4
+531,Chile,1990,Landslides,14.1
+532,Chile,1990,Wildfires,1
+533,Chile,1990,ExtremeTemperature,0.2
+534,Chile,2000,Earthquakes,2.3
+535,Chile,2000,Floods,7.4
+536,Chile,2000,Storms,4.7
+537,Chile,2000,ExtremeTemperature,0.6
+538,Chile,2010,Earthquakes,59
+539,Chile,2010,Floods,20.5
+540,Chile,2010,Storms,0.6
+541,Chile,2010,Landslides,2.2
+542,Chile,2010,Wildfires,3.2
+543,China,1900,Earthquakes,1480.1
+544,China,1910,Earthquakes,1291.2
+545,China,1910,Floods,10000
+546,China,1910,Storms,5000
+547,China,1920,Drought,350000
+548,China,1920,Earthquakes,23102.4
+549,China,1920,Storms,10500
+550,China,1930,Earthquakes,2107.7
+551,China,1930,Floods,436000
+552,China,1930,Landslides,50
+553,China,1940,Earthquakes,139.6
+554,China,1940,Floods,5733
+555,China,1940,Storms,180
+556,China,1950,Earthquakes,9.3
+557,China,1950,Floods,204004.7
+558,China,1950,Storms,378.4
+559,China,1960,Earthquakes,300
+560,China,1960,Storms,68.6
+561,China,1970,Earthquakes,27404.2
+562,China,1970,Floods,2000
+563,China,1970,Storms,10.7
+564,China,1980,Drought,140
+565,China,1980,Earthquakes,126.4
+566,China,1980,Floods,1418.7
+567,China,1980,MassMovements,27.7
+568,China,1980,Storms,323.1
+569,China,1980,Landslides,37.5
+570,China,1980,Wildfires,19.1
+571,China,1980,ExtremeTemperature,0.2
+572,China,1990,Drought,200
+573,China,1990,Earthquakes,64
+574,China,1990,Floods,1792.5
+575,China,1990,MassMovements,12.2
+576,China,1990,Storms,563.6
+577,China,1990,Landslides,124.8
+578,China,1990,Wildfires,5.2
+579,China,1990,ExtremeTemperature,14.4
+580,China,2000,Drought,13.4
+581,China,2000,Earthquakes,8794.7
+582,China,2000,Floods,578.1
+583,China,2000,MassMovements,5.5
+584,China,2000,Storms,318
+585,China,2000,Landslides,95.9
+586,China,2000,ExtremeTemperature,19.1
+587,China,2010,Earthquakes,421.9
+588,China,2010,Floods,622.7
+589,China,2010,MassMovements,4.6
+590,China,2010,Storms,159.3
+591,China,2010,Landslides,274.7
+592,China,2010,Wildfires,5.2
+593,China,2010,ExtremeTemperature,4.7
+594,Colombia,1900,Earthquakes,40
+595,Colombia,1920,Earthquakes,30
+596,Colombia,1920,Landslides,10
+597,Colombia,1930,Earthquakes,1.8
+598,Colombia,1940,VolcanicActivities,100
+599,Colombia,1950,Earthquakes,32.2
+600,Colombia,1950,Floods,18.4
+601,Colombia,1950,Landslides,18.7
+602,Colombia,1960,Earthquakes,12.8
+603,Colombia,1960,Floods,13.5
+604,Colombia,1960,Landslides,3.2
+605,Colombia,1970,Earthquakes,65
+606,Colombia,1970,Floods,57.6
+607,Colombia,1970,Landslides,88.9
+608,Colombia,1980,Earthquakes,26
+609,Colombia,1980,VolcanicActivities,2180
+610,Colombia,1980,Floods,45
+611,Colombia,1980,MassMovements,16
+612,Colombia,1980,Storms,3.1
+613,Colombia,1980,Landslides,100.9
+614,Colombia,1990,Earthquakes,152.7
+615,Colombia,1990,VolcanicActivities,1
+616,Colombia,1990,Floods,23.4
+617,Colombia,1990,MassMovements,7.5
+618,Colombia,1990,Storms,0.2
+619,Colombia,1990,Landslides,29.8
+620,Colombia,2000,Earthquakes,1.4
+621,Colombia,2000,VolcanicActivities,1.6
+622,Colombia,2000,Floods,103.1
+623,Colombia,2000,MassMovements,1.2
+624,Colombia,2000,Storms,0.5
+625,Colombia,2000,Landslides,25.6
+626,Colombia,2010,Floods,97.5
+627,Colombia,2010,Storms,1.1
+628,Colombia,2010,Landslides,68.9
+629,Colombia,2010,Wildfires,4.2
+630,Comoros,1900,VolcanicActivities,1.7
+631,Comoros,1950,Storms,50
+632,Comoros,1970,VolcanicActivities,0.1
+633,Comoros,1980,Storms,5.9
+634,Comoros,2000,VolcanicActivities,0.1
+635,Comoros,2000,Floods,0.2
+636,Comoros,2010,Floods,0.4
+637,Comoros,2010,Storms,0.8
+638,Congo,1960,Landslides,15.4
+639,Congo,1990,Floods,0.2
+640,Congo,2000,Floods,0.7
+641,Congo,2010,Floods,1.9
+642,Costa Rica,1910,Earthquakes,245
+643,Costa Rica,1950,Earthquakes,3.9
+644,Costa Rica,1960,VolcanicActivities,10.2
+645,Costa Rica,1960,Floods,0.7
+646,Costa Rica,1970,Earthquakes,2.1
+647,Costa Rica,1970,VolcanicActivities,0.2
+648,Costa Rica,1970,Floods,2.4
+649,Costa Rica,1980,Earthquakes,1.2
+650,Costa Rica,1980,Floods,0.8
+651,Costa Rica,1980,Storms,2.8
+652,Costa Rica,1990,Earthquakes,5.1
+653,Costa Rica,1990,Floods,2.7
+654,Costa Rica,1990,Storms,6.2
+655,Costa Rica,2000,Earthquakes,4.1
+656,Costa Rica,2000,Floods,4.4
+657,Costa Rica,2000,Storms,0.5
+658,Costa Rica,2000,Landslides,0.7
+659,Costa Rica,2010,Earthquakes,0.2
+660,Costa Rica,2010,Floods,3.8
+661,Costa Rica,2010,Storms,2.2
+662,Cote d'Ivoire,1990,Floods,2.8
+663,Cote d'Ivoire,2000,Floods,0.6
+664,Cote d'Ivoire,2000,Landslides,2.7
+665,Cote d'Ivoire,2010,Floods,14.7
+666,Croatia,2000,Storms,0.2
+667,Croatia,2000,Wildfires,1.3
+668,Croatia,2000,ExtremeTemperature,83.3
+669,Croatia,2010,Floods,0.4
+670,Croatia,2010,ExtremeTemperature,0.7
+671,Cuba,1920,Storms,60
+672,Cuba,1930,Storms,253.5
+673,Cuba,1940,Storms,1.4
+674,Cuba,1960,Storms,175.5
+675,Cuba,1970,Earthquakes,0.1
+676,Cuba,1970,Floods,0.7
+677,Cuba,1970,Storms,2.6
+678,Cuba,1980,Floods,3.8
+679,Cuba,1980,Storms,3.1
+680,Cuba,1990,Floods,6.5
+681,Cuba,1990,Storms,1.9
+682,Cuba,2000,Floods,0.4
+683,Cuba,2000,Storms,4
+684,Cuba,2010,Floods,0.7
+685,Cuba,2010,Storms,3.7
+686,Cyprus,1950,Earthquakes,4
+687,Cyprus,1960,Storms,0.3
+688,Cyprus,1990,Earthquakes,0.2
+689,Cyprus,1990,ExtremeTemperature,5.2
+690,Cyprus,2000,ExtremeTemperature,0.9
+691,Czechia,1990,Floods,3.6
+692,Czechia,2000,Floods,3.8
+693,Czechia,2000,Storms,1
+694,Czechia,2000,ExtremeTemperature,43.3
+695,Czechia,2010,Floods,2.6
+696,Czechia,2010,ExtremeTemperature,4.7
+697,Czechoslovakia,1970,Landslides,1.4
+698,Czechoslovakia,1980,Landslides,1
+699,Democratic Republic of Congo,1960,Earthquakes,2.4
+700,Democratic Republic of Congo,1960,Landslides,15.4
+701,Democratic Republic of Congo,1970,VolcanicActivities,14.7
+702,Democratic Republic of Congo,1990,Earthquakes,0.9
+703,Democratic Republic of Congo,1990,Floods,6.4
+704,Democratic Republic of Congo,2000,Earthquakes,1.7
+705,Democratic Republic of Congo,2000,VolcanicActivities,20
+706,Democratic Republic of Congo,2000,Floods,13.9
+707,Democratic Republic of Congo,2000,Storms,4.9
+708,Democratic Republic of Congo,2000,Landslides,1.2
+709,Democratic Republic of Congo,2010,Earthquakes,0.3
+710,Democratic Republic of Congo,2010,Floods,45.3
+711,Democratic Republic of Congo,2010,Landslides,26.8
+712,Democratic Republic of Congo,2010,Wildfires,1.1
+713,Denmark,1980,Storms,1.1
+714,Denmark,1990,Storms,0.8
+715,Denmark,2000,Storms,0.5
+716,Denmark,2010,Storms,0.2
+717,Djibouti,1980,Floods,3.5
+718,Djibouti,1990,Floods,14.5
+719,Djibouti,2000,Floods,5.1
+720,Djibouti,2010,Floods,1.1
+721,Djibouti,2010,Storms,0.2
+722,Dominica,1930,Storms,200
+723,Dominica,1970,Storms,4
+724,Dominica,1980,Storms,0.2
+725,Dominica,1990,Storms,0.2
+726,Dominica,2000,Storms,0.2
+727,Dominica,2010,Storms,9.4
+728,Dominican Republic,1930,Storms,200
+729,Dominican Republic,1940,Earthquakes,7.3
+730,Dominican Republic,1960,Storms,48.1
+731,Dominican Republic,1970,Floods,3.2
+732,Dominican Republic,1970,Storms,140
+733,Dominican Republic,1980,Floods,3.2
+734,Dominican Republic,1980,Storms,2.2
+735,Dominican Republic,1990,Floods,4.3
+736,Dominican Republic,1990,Storms,38.2
+737,Dominican Republic,2000,Earthquakes,0.3
+738,Dominican Republic,2000,Floods,72.3
+739,Dominican Republic,2000,Storms,21.1
+740,Dominican Republic,2010,Floods,2.9
+741,Dominican Republic,2010,Storms,2.6
+742,Ecuador,1920,Earthquakes,4
+743,Ecuador,1930,Landslides,19
+744,Ecuador,1940,Earthquakes,620
+745,Ecuador,1950,Floods,12.1
+746,Ecuador,1960,Landslides,5
+747,Ecuador,1970,Earthquakes,4.9
+748,Ecuador,1970,VolcanicActivities,0.1
+749,Ecuador,1970,Floods,2
+750,Ecuador,1970,Landslides,10.5
+751,Ecuador,1980,Earthquakes,501
+752,Ecuador,1980,Floods,34.2
+753,Ecuador,1980,Landslides,20
+754,Ecuador,1990,Earthquakes,3.7
+755,Ecuador,1990,Floods,26.7
+756,Ecuador,1990,Landslides,46
+757,Ecuador,2000,VolcanicActivities,0.5
+758,Ecuador,2000,Floods,18.3
+759,Ecuador,2000,MassMovements,6
+760,Ecuador,2000,Landslides,4.4
+761,Ecuador,2010,Earthquakes,67.6
+762,Ecuador,2010,Floods,7.8
+763,Ecuador,2010,Landslides,3.3
+764,Ecuador,2010,Wildfires,0.5
+765,Egypt,1920,Earthquakes,1.2
+766,Egypt,1950,Earthquakes,2
+767,Egypt,1960,Earthquakes,0.2
+768,Egypt,1970,Floods,6.5
+769,Egypt,1970,Storms,0.3
+770,Egypt,1980,Storms,3
+771,Egypt,1990,Earthquakes,56.2
+772,Egypt,1990,Floods,62.4
+773,Egypt,1990,MassMovements,3.4
+774,Egypt,1990,Storms,1.8
+775,Egypt,1990,ExtremeTemperature,5.4
+776,Egypt,2000,Floods,1.8
+777,Egypt,2000,MassMovements,9.8
+778,Egypt,2000,Storms,1.3
+779,Egypt,2000,ExtremeTemperature,0.3
+780,Egypt,2010,Floods,2.7
+781,Egypt,2010,Storms,8.8
+782,Egypt,2010,ExtremeTemperature,11
+783,El Salvador,1930,Earthquakes,40
+784,El Salvador,1930,Storms,200
+785,El Salvador,1950,Earthquakes,110
+786,El Salvador,1960,Earthquakes,12.5
+787,El Salvador,1960,Storms,0.2
+788,El Salvador,1980,Earthquakes,112
+789,El Salvador,1980,Floods,54.3
+790,El Salvador,1980,Landslides,2.2
+791,El Salvador,1990,Floods,1.7
+792,El Salvador,1990,Storms,49.1
+793,El Salvador,1990,Landslides,2.2
+794,El Salvador,2000,Earthquakes,116
+795,El Salvador,2000,VolcanicActivities,0.2
+796,El Salvador,2000,Floods,8.3
+797,El Salvador,2000,Storms,34.5
+798,El Salvador,2000,ExtremeTemperature,0.1
+799,El Salvador,2010,Earthquakes,0.1
+800,El Salvador,2010,Floods,4
+801,El Salvador,2010,Storms,3.9
+802,Eritrea,1990,Storms,0.3
+803,Estonia,2000,ExtremeTemperature,0.3
+804,Estonia,2010,ExtremeTemperature,0.8
+805,Eswatini,1980,Drought,50
+806,Eswatini,1980,Storms,5.3
+807,Eswatini,2000,Storms,0.1
+808,Eswatini,2000,Wildfires,0.2
+809,Eswatini,2010,Floods,1.1
+810,Ethiopia,1960,Drought,200
+811,Ethiopia,1960,Earthquakes,5.4
+812,Ethiopia,1960,Floods,0.1
+813,Ethiopia,1970,Drought,10000
+814,Ethiopia,1970,VolcanicActivities,6.4
+815,Ethiopia,1970,Floods,1.6
+816,Ethiopia,1980,Drought,30036.7
+817,Ethiopia,1980,Floods,5.4
+818,Ethiopia,1990,Floods,44.7
+819,Ethiopia,1990,MassMovements,1.3
+820,Ethiopia,1990,Landslides,2.2
+821,Ethiopia,2000,VolcanicActivities,0.5
+822,Ethiopia,2000,Floods,143.9
+823,Ethiopia,2000,Landslides,0.4
+824,Ethiopia,2010,Floods,14.7
+825,Ethiopia,2010,Landslides,6.7
+826,Europe,1900,Earthquakes,7575.7
+827,Europe,1900,VolcanicActivities,70
+828,Europe,1900,Floods,0.6
+829,Europe,1910,Earthquakes,3011.4
+830,Europe,1920,Earthquakes,181
+831,Europe,1920,Floods,100
+832,Europe,1920,Storms,8.8
+833,Europe,1920,Landslides,12.8
+834,Europe,1930,Earthquakes,221.2
+835,Europe,1930,Floods,1
+836,Europe,1930,Storms,8.2
+837,Europe,1930,Landslides,14.3
+838,Europe,1940,Earthquakes,104.7
+839,Europe,1940,VolcanicActivities,2.6
+840,Europe,1940,Storms,24.7
+841,Europe,1940,Landslides,2.5
+842,Europe,1940,Wildfires,8
+843,Europe,1950,Earthquakes,64.4
+844,Europe,1950,Floods,247.4
+845,Europe,1950,Storms,2.6
+846,Europe,1950,Landslides,62.7
+847,Europe,1950,Fog,400
+848,Europe,1960,Earthquakes,146.2
+849,Europe,1960,Floods,110.7
+850,Europe,1960,Storms,13.1
+851,Europe,1960,Landslides,221.1
+852,Europe,1960,Wildfires,2.5
+853,Europe,1960,ExtremeTemperature,1.2
+854,Europe,1970,Earthquakes,285.9
+855,Europe,1970,VolcanicActivities,0.9
+856,Europe,1970,Floods,127.9
+857,Europe,1970,Storms,10.4
+858,Europe,1970,Landslides,22.3
+859,Europe,1970,ExtremeTemperature,40
+860,Europe,1980,Earthquakes,483.7
+861,Europe,1980,Floods,66.9
+862,Europe,1980,Storms,28.4
+863,Europe,1980,Landslides,20
+864,Europe,1980,Wildfires,9.3
+865,Europe,1980,ExtremeTemperature,122.2
+866,Europe,1990,Earthquakes,225.6
+867,Europe,1990,Floods,91.7
+868,Europe,1990,Storms,100.5
+869,Europe,1990,Landslides,74.3
+870,Europe,1990,Wildfires,13.7
+871,Europe,1990,ExtremeTemperature,115.2
+872,Europe,2000,Drought,0.2
+873,Europe,2000,Earthquakes,34.8
+874,Europe,2000,Floods,96.1
+875,Europe,2000,Storms,48.4
+876,Europe,2000,Landslides,20.1
+877,Europe,2000,Wildfires,19.6
+878,Europe,2000,ExtremeTemperature,8070.8
+879,Europe,2010,Earthquakes,42.1
+880,Europe,2010,Floods,88.9
+881,Europe,2010,MassMovements,0.8
+882,Europe,2010,Storms,29.7
+883,Europe,2010,Landslides,0.4
+884,Europe,2010,Wildfires,32.3
+885,Europe,2010,ExtremeTemperature,6483.9
+886,Fiji,1930,Storms,20
+887,Fiji,1940,Storms,0.6
+888,Fiji,1950,Storms,2.3
+889,Fiji,1960,Floods,0.1
+890,Fiji,1960,Storms,0.2
+891,Fiji,1970,Storms,11.5
+892,Fiji,1980,Floods,2.9
+893,Fiji,1980,Storms,6.1
+894,Fiji,1990,Storms,5.9
+895,Fiji,2000,Floods,2.6
+896,Fiji,2000,Storms,4.4
+897,Fiji,2010,Floods,1.5
+898,Fiji,2010,Storms,5.9
+899,France,1900,Earthquakes,4.6
+900,France,1920,Landslides,2.8
+901,France,1930,Landslides,7
+902,France,1940,Wildfires,8
+903,France,1950,Floods,3.5
+904,France,1960,Earthquakes,0.1
+905,France,1960,Storms,2.8
+906,France,1960,Landslides,2.1
+907,France,1970,Earthquakes,1.1
+908,France,1970,Floods,2.9
+909,France,1970,Landslides,11.4
+910,France,1980,Floods,5.7
+911,France,1980,Storms,4
+912,France,1980,Landslides,3
+913,France,1980,Wildfires,2.5
+914,France,1990,Floods,6
+915,France,1990,Storms,22.5
+916,France,1990,Landslides,3.4
+917,France,1990,ExtremeTemperature,4.8
+918,France,2000,Floods,4.4
+919,France,2000,Storms,6.8
+920,France,2000,Wildfires,0.7
+921,France,2000,ExtremeTemperature,2089.3
+922,France,2010,Floods,9.5
+923,France,2010,Storms,8.2
+924,France,2010,ExtremeTemperature,472.8
+925,French Guiana,2000,Landslides,1
+926,French Polynesia,1980,Storms,0.7
+927,French Polynesia,1980,Landslides,1
+928,French Polynesia,1990,Landslides,1.3
+929,French Polynesia,2010,Storms,0.1
+930,Gabon,2010,Floods,0.1
+931,Gambia,1990,Floods,5.3
+932,Gambia,2000,Floods,0.6
+933,Gambia,2000,Storms,0.5
+934,Gambia,2010,Floods,1.7
+935,Gambia,2010,Storms,0.4
+936,Georgia,1990,Earthquakes,0.9
+937,Georgia,1990,Floods,0.8
+938,Georgia,2000,Earthquakes,0.6
+939,Georgia,2000,Floods,0.1
+940,Georgia,2010,Floods,5.2
+941,Germany,1990,Earthquakes,0.1
+942,Germany,1990,Floods,1.4
+943,Germany,1990,Storms,10.7
+944,Germany,1990,Landslides,0.5
+945,Germany,1990,ExtremeTemperature,3
+946,Germany,2000,Floods,2.9
+947,Germany,2000,Storms,8.5
+948,Germany,2000,ExtremeTemperature,938.3
+949,Germany,2010,Floods,1.8
+950,Germany,2010,Storms,3
+951,Germany,2010,ExtremeTemperature,1.1
+952,Ghana,1930,Earthquakes,2.2
+953,Ghana,1980,Floods,0.7
+954,Ghana,1980,Wildfires,0.4
+955,Ghana,1990,Floods,20.2
+956,Ghana,2000,Floods,11.2
+957,Ghana,2010,Floods,18.9
+958,Ghana,2010,Storms,2
+959,Greece,1900,Earthquakes,0.4
+960,Greece,1910,Earthquakes,1.4
+961,Greece,1920,Earthquakes,10.3
+962,Greece,1930,Earthquakes,15.1
+963,Greece,1930,Storms,2.2
+964,Greece,1940,Earthquakes,0.5
+965,Greece,1950,Earthquakes,59.3
+966,Greece,1960,Earthquakes,10
+967,Greece,1960,Storms,4.3
+968,Greece,1970,Earthquakes,5
+969,Greece,1970,Floods,4.2
+970,Greece,1980,Earthquakes,4.5
+971,Greece,1980,Storms,4.8
+972,Greece,1980,Wildfires,1.5
+973,Greece,1980,ExtremeTemperature,107.6
+974,Greece,1990,Earthquakes,19.7
+975,Greece,1990,Floods,2.6
+976,Greece,1990,Storms,0.3
+977,Greece,1990,Wildfires,1.4
+978,Greece,1990,ExtremeTemperature,0.5
+979,Greece,2000,Earthquakes,0.2
+980,Greece,2000,Floods,1.5
+981,Greece,2000,Storms,0.5
+982,Greece,2000,Wildfires,7.7
+983,Greece,2000,ExtremeTemperature,4.3
+984,Greece,2010,Earthquakes,0.6
+985,Greece,2010,Floods,3.2
+986,Greece,2010,Storms,0.7
+987,Greece,2010,Wildfires,10
+988,Greece,2010,ExtremeTemperature,0.5
+989,Grenada,1960,Storms,0.6
+990,Grenada,2000,Storms,3.9
+991,Guadeloupe,1920,Storms,200
+992,Guadeloupe,1960,Storms,3.9
+993,Guadeloupe,1980,Storms,0.5
+994,Guadeloupe,1990,Storms,0.4
+995,Guadeloupe,2000,Earthquakes,0.1
+996,Guadeloupe,2010,Storms,0.4
+997,Guam,1960,Storms,0.6
+998,Guam,1970,Storms,0.9
+999,Guam,1990,Storms,0.1
+1000,Guam,2000,Storms,0.2
+1001,Guatemala,1900,Earthquakes,200
+1002,Guatemala,1900,VolcanicActivities,700
+1003,Guatemala,1910,Earthquakes,265
+1004,Guatemala,1940,Floods,4000
+1005,Guatemala,1960,Storms,26.9
+1006,Guatemala,1970,Earthquakes,2300
+1007,Guatemala,1970,Floods,0.5
+1008,Guatemala,1980,Earthquakes,0.5
+1009,Guatemala,1980,Floods,71.4
+1010,Guatemala,1990,Earthquakes,1.6
+1011,Guatemala,1990,Floods,5.3
+1012,Guatemala,1990,MassMovements,2.3
+1013,Guatemala,1990,Storms,38.4
+1014,Guatemala,1990,Landslides,5.1
+1015,Guatemala,2000,Drought,4.1
+1016,Guatemala,2000,Earthquakes,0.6
+1017,Guatemala,2000,Floods,7.7
+1018,Guatemala,2000,MassMovements,3.6
+1019,Guatemala,2000,Storms,154
+1020,Guatemala,2000,Landslides,18.7
+1021,Guatemala,2000,ExtremeTemperature,0.6
+1022,Guatemala,2010,Earthquakes,4.9
+1023,Guatemala,2010,VolcanicActivities,46.1
+1024,Guatemala,2010,Floods,7
+1025,Guatemala,2010,Storms,19.6
+1026,Guatemala,2010,Landslides,44
+1027,Guinea,1980,Earthquakes,27.5
+1028,Guinea,1990,Drought,1.2
+1029,Guinea,2000,Floods,1.1
+1030,Guinea,2000,Storms,0.4
+1031,Guinea,2010,Floods,1.7
+1032,Guinea,2010,Landslides,0.7
+1033,Guinea-Bissau,1980,Storms,0.1
+1034,Guinea-Bissau,1990,Wildfires,0.3
+1035,Guinea-Bissau,2000,Floods,0.3
+1036,Guinea-Bissau,2010,Floods,0.2
+1037,Guinea-Bissau,2010,Storms,0.3
+1038,Guyana,2000,Floods,3.4
+1039,Haiti,1900,Storms,15
+1040,Haiti,1910,Storms,160
+1041,Haiti,1930,Storms,215
+1042,Haiti,1950,Earthquakes,0.6
+1043,Haiti,1950,Floods,5
+1044,Haiti,1950,Storms,41
+1045,Haiti,1950,Landslides,26.2
+1046,Haiti,1960,Floods,52.6
+1047,Haiti,1960,Storms,558
+1048,Haiti,1970,Floods,7.8
+1049,Haiti,1970,Storms,0.8
+1050,Haiti,1980,Floods,20.8
+1051,Haiti,1980,Storms,27.4
+1052,Haiti,1990,Floods,4.4
+1053,Haiti,1990,Storms,137.8
+1054,Haiti,2000,Floods,291
+1055,Haiti,2000,Storms,366.3
+1056,Haiti,2010,Earthquakes,22258.7
+1057,Haiti,2010,Floods,24.4
+1058,Haiti,2010,Storms,67.3
+1059,High income,1900,Earthquakes,9789.8
+1060,High income,1900,VolcanicActivities,3085.5
+1061,High income,1900,Floods,32.8
+1062,High income,1900,MassMovements,12.7
+1063,High income,1900,Storms,1678.7
+1064,High income,1910,Earthquakes,3063.7
+1065,High income,1910,VolcanicActivities,14
+1066,High income,1910,Floods,137.9
+1067,High income,1910,Storms,784.9
+1068,High income,1910,Landslides,11.8
+1069,High income,1910,Wildfires,107.3
+1070,High income,1920,Earthquakes,14924.2
+1071,High income,1920,VolcanicActivities,14.4
+1072,High income,1920,Floods,124.6
+1073,High income,1920,Storms,964.2
+1074,High income,1920,Landslides,32.8
+1075,High income,1920,Wildfires,4.3
+1076,High income,1930,Earthquakes,4175.6
+1077,High income,1930,Floods,130.1
+1078,High income,1930,Storms,1732.2
+1079,High income,1930,Landslides,34.3
+1080,High income,1930,Wildfires,7.1
+1081,High income,1930,ExtremeTemperature,169.3
+1082,High income,1940,Earthquakes,1365.9
+1083,High income,1940,VolcanicActivities,12.6
+1084,High income,1940,Floods,304.5
+1085,High income,1940,Storms,1117.1
+1086,High income,1940,Landslides,2.5
+1087,High income,1940,Wildfires,25
+1088,High income,1950,Earthquakes,83.5
+1089,High income,1950,VolcanicActivities,17.9
+1090,High income,1950,Floods,843.5
+1091,High income,1950,MassMovements,0.3
+1092,High income,1950,Storms,1650.4
+1093,High income,1950,Landslides,84.3
+1094,High income,1950,Fog,400
+1095,High income,1950,Wildfires,1.1
+1096,High income,1950,ExtremeTemperature,17.6
+1097,High income,1960,Drought,60
+1098,High income,1960,Earthquakes,729.1
+1099,High income,1960,VolcanicActivities,0.4
+1100,High income,1960,Floods,461.6
+1101,High income,1960,Storms,617.8
+1102,High income,1960,Landslides,256.2
+1103,High income,1960,Wildfires,9.9
+1104,High income,1960,ExtremeTemperature,42.4
+1105,High income,1970,Earthquakes,291.6
+1106,High income,1970,VolcanicActivities,1.2
+1107,High income,1970,Floods,388.6
+1108,High income,1970,MassMovements,3.1
+1109,High income,1970,Storms,333.3
+1110,High income,1970,Landslides,91.1
+1111,High income,1970,Wildfires,0.3
+1112,High income,1970,ExtremeTemperature,43.2
+1113,High income,1980,Earthquakes,535
+1114,High income,1980,VolcanicActivities,9
+1115,High income,1980,Floods,219.3
+1116,High income,1980,Storms,461.5
+1117,High income,1980,Landslides,71.4
+1118,High income,1980,Wildfires,18
+1119,High income,1980,ExtremeTemperature,278.6
+1120,High income,1990,Earthquakes,817.5
+1121,High income,1990,VolcanicActivities,8.2
+1122,High income,1990,Floods,223.2
+1123,High income,1990,Storms,381.3
+1124,High income,1990,Landslides,75.8
+1125,High income,1990,Wildfires,13.5
+1126,High income,1990,ExtremeTemperature,180.6
+1127,High income,2000,Earthquakes,45
+1128,High income,2000,Floods,165.3
+1129,High income,2000,Storms,599.1
+1130,High income,2000,Landslides,10.8
+1131,High income,2000,Wildfires,43.6
+1132,High income,2000,ExtremeTemperature,7931.2
+1133,High income,2010,Earthquakes,2130.1
+1134,High income,2010,VolcanicActivities,8.4
+1135,High income,2010,Floods,168.5
+1136,High income,2010,MassMovements,0.8
+1137,High income,2010,Storms,397.9
+1138,High income,2010,Landslides,23.1
+1139,High income,2010,Wildfires,56.4
+1140,High income,2010,ExtremeTemperature,983.5
+1141,Honduras,1930,Storms,150
+1142,Honduras,1960,Storms,27.5
+1143,Honduras,1970,Floods,2.1
+1144,Honduras,1970,Storms,800
+1145,Honduras,1970,Landslides,280
+1146,Honduras,1980,Floods,1.9
+1147,Honduras,1980,MassMovements,1
+1148,Honduras,1980,Storms,13
+1149,Honduras,1990,Floods,62.4
+1150,Honduras,1990,Storms,1461.9
+1151,Honduras,2000,Earthquakes,0.7
+1152,Honduras,2000,Floods,10.6
+1153,Honduras,2000,Storms,7.5
+1154,Honduras,2010,Floods,18.9
+1155,Honduras,2010,Storms,2.6
+1156,Hong Kong,1900,Storms,1000
+1157,Hong Kong,1920,Storms,10
+1158,Hong Kong,1930,Storms,1100
+1159,Hong Kong,1940,Storms,200
+1160,Hong Kong,1950,Storms,5.1
+1161,Hong Kong,1960,Floods,8
+1162,Hong Kong,1960,Storms,32.5
+1163,Hong Kong,1960,Landslides,8.6
+1164,Hong Kong,1970,Floods,14.1
+1165,Hong Kong,1970,Storms,18
+1166,Hong Kong,1970,Landslides,10
+1167,Hong Kong,1980,Floods,0.5
+1168,Hong Kong,1980,Storms,4.5
+1169,Hong Kong,1980,Landslides,2.5
+1170,Hong Kong,1980,ExtremeTemperature,1
+1171,Hong Kong,1990,Floods,8.6
+1172,Hong Kong,1990,Storms,3.4
+1173,Hong Kong,1990,Landslides,0.1
+1174,Hong Kong,2000,Storms,0.6
+1175,Hong Kong,2010,Storms,0.1
+1176,Hungary,1970,Floods,30
+1177,Hungary,1980,Storms,0.4
+1178,Hungary,1990,Floods,0.8
+1179,Hungary,1990,Storms,4
+1180,Hungary,2000,Floods,0.1
+1181,Hungary,2000,Storms,1.6
+1182,Hungary,2000,ExtremeTemperature,64.6
+1183,Hungary,2010,Floods,0.1
+1184,Hungary,2010,ExtremeTemperature,19.5
+1185,Iceland,1970,Earthquakes,0.1
+1186,Iceland,1970,Landslides,1.2
+1187,Iceland,1980,Landslides,0.4
+1188,Iceland,1990,Landslides,3.4
+1189,India,1900,Drought,125000
+1190,India,1900,Earthquakes,2000
+1191,India,1910,Storms,30
+1192,India,1920,Floods,3.6
+1193,India,1920,Storms,200.7
+1194,India,1930,Storms,6033.3
+1195,India,1940,Drought,150000
+1196,India,1940,Storms,4630.4
+1197,India,1940,Landslides,50
+1198,India,1950,Earthquakes,161.3
+1199,India,1950,Floods,118.8
+1200,India,1950,Storms,296
+1201,India,1950,Landslides,10.9
+1202,India,1950,ExtremeTemperature,105.1
+1203,India,1960,Drought,150000
+1204,India,1960,Earthquakes,19.2
+1205,India,1960,Floods,1069.8
+1206,India,1960,Storms,265.2
+1207,India,1960,Landslides,100
+1208,India,1960,ExtremeTemperature,50
+1209,India,1970,Earthquakes,7.3
+1210,India,1970,Floods,838.3
+1211,India,1970,Storms,2635
+1212,India,1970,Landslides,33.6
+1213,India,1970,ExtremeTemperature,81.1
+1214,India,1980,Drought,30
+1215,India,1980,Earthquakes,42.1
+1216,India,1980,Floods,1235.1
+1217,India,1980,MassMovements,4.5
+1218,India,1980,Storms,390.9
+1219,India,1980,Landslides,91.6
+1220,India,1980,ExtremeTemperature,212.4
+1221,India,1990,Earthquakes,1139.1
+1222,India,1990,Floods,1323.1
+1223,India,1990,Storms,1809.1
+1224,India,1990,Landslides,122.3
+1225,India,1990,Wildfires,0.6
+1226,India,1990,ExtremeTemperature,403.9
+1227,India,2000,Drought,2
+1228,India,2000,Earthquakes,3770.5
+1229,India,2000,Floods,1366.6
+1230,India,2000,Storms,100.8
+1231,India,2000,Landslides,66.4
+1232,India,2000,ExtremeTemperature,501.9
+1233,India,2010,Earthquakes,22.1
+1234,India,2010,Floods,1393.6
+1235,India,2010,MassMovements,1.6
+1236,India,2010,Storms,273.5
+1237,India,2010,Landslides,28.7
+1238,India,2010,Wildfires,2.4
+1239,India,2010,ExtremeTemperature,443.1
+1240,Indonesia,1910,Earthquakes,1515.8
+1241,Indonesia,1910,VolcanicActivities,500
+1242,Indonesia,1920,Earthquakes,96.5
+1243,Indonesia,1930,Earthquakes,3.2
+1244,Indonesia,1930,VolcanicActivities,266.9
+1245,Indonesia,1940,Earthquakes,21.3
+1246,Indonesia,1950,Earthquakes,2.4
+1247,Indonesia,1950,VolcanicActivities,133.7
+1248,Indonesia,1950,Floods,11.4
+1249,Indonesia,1950,Storms,30
+1250,Indonesia,1950,Landslides,40.5
+1251,Indonesia,1960,Drought,800
+1252,Indonesia,1960,Earthquakes,47.4
+1253,Indonesia,1960,VolcanicActivities,277.8
+1254,Indonesia,1960,Floods,34.8
+1255,Indonesia,1970,Drought,6.3
+1256,Indonesia,1970,Earthquakes,195.2
+1257,Indonesia,1970,VolcanicActivities,29.7
+1258,Indonesia,1970,Floods,50.1
+1259,Indonesia,1970,Storms,168.6
+1260,Indonesia,1970,Landslides,2.3
+1261,Indonesia,1980,Drought,59.4
+1262,Indonesia,1980,Earthquakes,57.8
+1263,Indonesia,1980,VolcanicActivities,22.9
+1264,Indonesia,1980,Floods,132.6
+1265,Indonesia,1980,MassMovements,13.1
+1266,Indonesia,1980,Storms,0.2
+1267,Indonesia,1980,Landslides,44.5
+1268,Indonesia,1990,Drought,67.2
+1269,Indonesia,1990,Earthquakes,332.1
+1270,Indonesia,1990,VolcanicActivities,13.3
+1271,Indonesia,1990,Floods,79.3
+1272,Indonesia,1990,Landslides,22
+1273,Indonesia,1990,Wildfires,30
+1274,Indonesia,2000,Earthquakes,17492.1
+1275,Indonesia,2000,VolcanicActivities,0.2
+1276,Indonesia,2000,Floods,279
+1277,Indonesia,2000,Storms,0.4
+1278,Indonesia,2000,Landslides,102.6
+1279,Indonesia,2010,Drought,1.1
+1280,Indonesia,2010,Earthquakes,551.2
+1281,Indonesia,2010,VolcanicActivities,81.8
+1282,Indonesia,2010,Floods,122.8
+1283,Indonesia,2010,Storms,3.2
+1284,Indonesia,2010,Landslides,55.8
+1285,Indonesia,2010,Wildfires,1.9
+1286,Iran,1900,Earthquakes,535
+1287,Iran,1910,Earthquakes,70
+1288,Iran,1920,Earthquakes,640
+1289,Iran,1930,Earthquakes,319.2
+1290,Iran,1940,Earthquakes,137
+1291,Iran,1950,Earthquakes,708.6
+1292,Iran,1950,Floods,413.1
+1293,Iran,1950,ExtremeTemperature,15.8
+1294,Iran,1960,Earthquakes,2334.8
+1295,Iran,1960,Floods,9.2
+1296,Iran,1970,Earthquakes,3197.3
+1297,Iran,1970,Storms,7.4
+1298,Iran,1970,Landslides,4.3
+1299,Iran,1980,Earthquakes,338.8
+1300,Iran,1980,Floods,153.4
+1301,Iran,1980,Storms,20
+1302,Iran,1990,Earthquakes,4287.5
+1303,Iran,1990,Floods,126.6
+1304,Iran,1990,Storms,3.1
+1305,Iran,1990,Landslides,5.3
+1306,Iran,2000,Earthquakes,2775.7
+1307,Iran,2000,Floods,74.4
+1308,Iran,2000,Storms,4.3
+1309,Iran,2000,Landslides,2
+1310,Iran,2010,Earthquakes,82.7
+1311,Iran,2010,Floods,24.1
+1312,Iran,2010,Storms,0.4
+1313,Iraq,1990,Earthquakes,2
+1314,Iraq,2000,Floods,2.6
+1315,Iraq,2010,Earthquakes,1
+1316,Iraq,2010,Floods,11
+1317,Ireland,1980,Storms,2.1
+1318,Ireland,1990,Floods,0.3
+1319,Ireland,1990,Storms,1.4
+1320,Ireland,2000,Storms,0.1
+1321,Ireland,2010,Floods,0.2
+1322,Ireland,2010,Storms,0.4
+1323,Israel,1900,Earthquakes,2
+1324,Israel,1970,Landslides,2
+1325,Israel,1990,Floods,1.5
+1326,Israel,1990,Storms,0.5
+1327,Israel,2000,Storms,0.3
+1328,Israel,2010,Floods,1.4
+1329,Israel,2010,Storms,0.4
+1330,Israel,2010,Wildfires,4.4
+1331,Italy,1900,Earthquakes,7555.7
+1332,Italy,1900,VolcanicActivities,70
+1333,Italy,1910,Earthquakes,3010
+1334,Italy,1920,Earthquakes,140
+1335,Italy,1920,Landslides,10
+1336,Italy,1930,Earthquakes,191.1
+1337,Italy,1930,Floods,1
+1338,Italy,1940,VolcanicActivities,2.6
+1339,Italy,1940,Storms,8
+1340,Italy,1940,Landslides,2.5
+1341,Italy,1950,Floods,26.3
+1342,Italy,1950,Landslides,29.7
+1343,Italy,1960,Earthquakes,24
+1344,Italy,1960,Floods,19.7
+1345,Italy,1960,Storms,3.7
+1346,Italy,1960,Landslides,192.9
+1347,Italy,1970,Earthquakes,98
+1348,Italy,1970,VolcanicActivities,0.9
+1349,Italy,1970,Floods,6
+1350,Italy,1970,Storms,7.4
+1351,Italy,1970,Landslides,1.2
+1352,Italy,1980,Earthquakes,470.5
+1353,Italy,1980,Floods,33.1
+1354,Italy,1980,Storms,3.3
+1355,Italy,1980,Landslides,5.7
+1356,Italy,1980,Wildfires,0.7
+1357,Italy,1990,Earthquakes,3.5
+1358,Italy,1990,Floods,8.7
+1359,Italy,1990,Storms,3.9
+1360,Italy,1990,Landslides,16.1
+1361,Italy,1990,Wildfires,0.1
+1362,Italy,1990,ExtremeTemperature,1
+1363,Italy,2000,Earthquakes,32.7
+1364,Italy,2000,Floods,9.7
+1365,Italy,2000,Storms,0.6
+1366,Italy,2000,Landslides,0.4
+1367,Italy,2000,Wildfires,1.3
+1368,Italy,2000,ExtremeTemperature,2010.4
+1369,Italy,2010,Earthquakes,35.2
+1370,Italy,2010,Floods,6.6
+1371,Italy,2010,Storms,3.8
+1372,Italy,2010,Landslides,0.3
+1373,Italy,2010,ExtremeTemperature,5.9
+1374,Jamaica,1900,Earthquakes,120
+1375,Jamaica,1900,Floods,30
+1376,Jamaica,1900,Storms,6.5
+1377,Jamaica,1900,Landslides,5.3
+1378,Jamaica,1910,Storms,19.9
+1379,Jamaica,1920,Storms,0.4
+1380,Jamaica,1930,Floods,16.4
+1381,Jamaica,1930,MassMovements,4
+1382,Jamaica,1930,Storms,1
+1383,Jamaica,1940,Floods,12.5
+1384,Jamaica,1940,Storms,3.2
+1385,Jamaica,1950,Storms,15.4
+1386,Jamaica,1960,Storms,1.1
+1387,Jamaica,1970,Floods,4.4
+1388,Jamaica,1970,Storms,0.6
+1389,Jamaica,1980,Floods,6.3
+1390,Jamaica,1980,Storms,6.2
+1391,Jamaica,1990,Floods,2.4
+1392,Jamaica,1990,Storms,0.4
+1393,Jamaica,2000,Floods,1
+1394,Jamaica,2000,Storms,4.5
+1395,Jamaica,2010,Storms,1.6
+1396,Japan,1900,Earthquakes,11.1
+1397,Japan,1900,VolcanicActivities,15.5
+1398,Japan,1910,Earthquakes,10.6
+1399,Japan,1910,VolcanicActivities,14
+1400,Japan,1910,Floods,137.9
+1401,Japan,1910,Storms,500
+1402,Japan,1920,Earthquakes,14644.4
+1403,Japan,1920,VolcanicActivities,14.4
+1404,Japan,1920,Storms,300
+1405,Japan,1920,Landslides,20
+1406,Japan,1930,Earthquakes,328.6
+1407,Japan,1930,Floods,93.3
+1408,Japan,1930,Storms,300.6
+1409,Japan,1940,Earthquakes,1206
+1410,Japan,1940,Floods,299
+1411,Japan,1940,Storms,761.2
+1412,Japan,1950,Earthquakes,3.3
+1413,Japan,1950,VolcanicActivities,2.9
+1414,Japan,1950,Floods,543.3
+1415,Japan,1950,Storms,1184.3
+1416,Japan,1950,Landslides,11.3
+1417,Japan,1960,Earthquakes,22
+1418,Japan,1960,Floods,119.5
+1419,Japan,1960,Storms,150.3
+1420,Japan,1960,Landslides,10.8
+1421,Japan,1970,Earthquakes,8.3
+1422,Japan,1970,VolcanicActivities,0.3
+1423,Japan,1970,Floods,49.4
+1424,Japan,1970,Storms,91.6
+1425,Japan,1970,Landslides,12.7
+1426,Japan,1980,Earthquakes,23.7
+1427,Japan,1980,Floods,41.6
+1428,Japan,1980,Storms,65.2
+1429,Japan,1980,Landslides,29.2
+1430,Japan,1990,Earthquakes,554.5
+1431,Japan,1990,VolcanicActivities,4.4
+1432,Japan,1990,Floods,10.3
+1433,Japan,1990,Storms,35.1
+1434,Japan,1990,Landslides,11.8
+1435,Japan,2000,Earthquakes,8.1
+1436,Japan,2000,Floods,11.3
+1437,Japan,2000,Storms,44.6
+1438,Japan,2000,Landslides,4.4
+1439,Japan,2000,ExtremeTemperature,13.5
+1440,Japan,2010,Earthquakes,1995.2
+1441,Japan,2010,VolcanicActivities,6.3
+1442,Japan,2010,Floods,37.5
+1443,Japan,2010,Storms,58.9
+1444,Japan,2010,Landslides,8.2
+1445,Japan,2010,ExtremeTemperature,91.3
+1446,Jordan,1920,Earthquakes,26.8
+1447,Jordan,1960,Floods,29.2
+1448,Jordan,1980,Floods,0.9
+1449,Jordan,1990,Floods,1
+1450,Jordan,1990,Storms,0.2
+1451,Jordan,1990,ExtremeTemperature,1.5
+1452,Jordan,2000,Storms,1.4
+1453,Jordan,2010,Floods,3.4
+1454,Kazakhstan,1910,Earthquakes,45
+1455,Kazakhstan,1990,Floods,1
+1456,Kazakhstan,1990,Storms,11.2
+1457,Kazakhstan,2000,Earthquakes,0.3
+1458,Kazakhstan,2000,Floods,0.1
+1459,Kazakhstan,2000,Landslides,4.8
+1460,Kazakhstan,2000,ExtremeTemperature,0.3
+1461,Kazakhstan,2010,Floods,5.3
+1462,Kenya,1970,Floods,10
+1463,Kenya,1980,Floods,7.5
+1464,Kenya,1980,Storms,5
+1465,Kenya,1990,Drought,8.5
+1466,Kenya,1990,Floods,17
+1467,Kenya,2000,Drought,11.1
+1468,Kenya,2000,Earthquakes,0.1
+1469,Kenya,2000,Floods,55.1
+1470,Kenya,2000,Landslides,4.6
+1471,Kenya,2010,Floods,85.8
+1472,Kenya,2010,Landslides,10.7
+1473,Kiribati,1970,Storms,0.3
+1474,Kuwait,1990,Floods,0.2
+1475,Kuwait,2010,Floods,0.1
+1476,Kyrgyzstan,1990,Earthquakes,5.8
+1477,Kyrgyzstan,1990,Floods,0.1
+1478,Kyrgyzstan,1990,Landslides,16.2
+1479,Kyrgyzstan,2000,Earthquakes,7.4
+1480,Kyrgyzstan,2000,Floods,0.3
+1481,Kyrgyzstan,2000,Storms,0.4
+1482,Kyrgyzstan,2000,Landslides,8.7
+1483,Kyrgyzstan,2000,ExtremeTemperature,1.1
+1484,Kyrgyzstan,2010,Landslides,2.4
+1485,Kyrgyzstan,2010,ExtremeTemperature,1.6
+1486,Laos,1960,Floods,30.2
+1487,Laos,1970,Floods,4.5
+1488,Laos,1980,Floods,1.4
+1489,Laos,1990,Floods,4
+1490,Laos,1990,Storms,5.6
+1491,Laos,2000,Floods,3.3
+1492,Laos,2000,Storms,1.6
+1493,Laos,2010,Floods,23.5
+1494,Latvia,1990,Storms,0.6
+1495,Latvia,2000,ExtremeTemperature,7.6
+1496,Latvia,2010,ExtremeTemperature,1
+1497,Lebanon,1950,Earthquakes,13.6
+1498,Lebanon,1950,Floods,44
+1499,Lebanon,1980,MassMovements,2
+1500,Lebanon,1990,Storms,2.5
+1501,Lebanon,2000,Wildfires,0.1
+1502,Lebanon,2010,Storms,2.3
+1503,Lesotho,1980,Floods,1.8
+1504,Lesotho,1990,Floods,2.2
+1505,Lesotho,2000,Storms,0.1
+1506,Lesotho,2010,Floods,2.6
+1507,Liberia,1980,MassMovements,4.6
+1508,Liberia,1990,Floods,1
+1509,Liberia,2000,Floods,0.3
+1510,Liberia,2010,Floods,0.1
+1511,Libya,1960,Earthquakes,30
+1512,Libya,2010,Floods,2
+1513,Lithuania,1990,Storms,0.8
+1514,Lithuania,1990,ExtremeTemperature,3.2
+1515,Lithuania,2000,ExtremeTemperature,2
+1516,Lithuania,2010,Floods,0.4
+1517,Lithuania,2010,ExtremeTemperature,4
+1518,Low income,1900,Storms,15
+1519,Low income,1910,Drought,8500
+1520,Low income,1910,Earthquakes,9
+1521,Low income,1910,Storms,160
+1522,Low income,1930,Earthquakes,17.5
+1523,Low income,1930,Storms,215
+1524,Low income,1950,Earthquakes,210.6
+1525,Low income,1950,Floods,10.1
+1526,Low income,1950,Storms,51.7
+1527,Low income,1950,Landslides,26.2
+1528,Low income,1960,Drought,205
+1529,Low income,1960,Earthquakes,18.2
+1530,Low income,1960,Floods,83.4
+1531,Low income,1960,Storms,569
+1532,Low income,1960,Landslides,15.4
+1533,Low income,1970,Drought,11900
+1534,Low income,1970,Earthquakes,6.1
+1535,Low income,1970,VolcanicActivities,21.1
+1536,Low income,1970,Floods,129
+1537,Low income,1970,Storms,29.3
+1538,Low income,1970,Landslides,10
+1539,Low income,1980,Drought,55445.4
+1540,Low income,1980,Earthquakes,79.7
+1541,Low income,1980,Floods,89.2
+1542,Low income,1980,MassMovements,4.6
+1543,Low income,1980,Storms,100.9
+1544,Low income,1980,Landslides,7
+1545,Low income,1990,Drought,15.4
+1546,Low income,1990,Earthquakes,745.5
+1547,Low income,1990,Floods,832.3
+1548,Low income,1990,MassMovements,2.5
+1549,Low income,1990,Storms,212.2
+1550,Low income,1990,Landslides,116.7
+1551,Low income,1990,Wildfires,5
+1552,Low income,1990,ExtremeTemperature,22.4
+1553,Low income,2000,Drought,75.6
+1554,Low income,2000,Earthquakes,166
+1555,Low income,2000,VolcanicActivities,21.1
+1556,Low income,2000,Floods,968.1
+1557,Low income,2000,Storms,525.4
+1558,Low income,2000,Landslides,30.6
+1559,Low income,2000,Wildfires,5
+1560,Low income,2000,ExtremeTemperature,166.5
+1561,Low income,2010,Drought,2000
+1562,Low income,2010,Earthquakes,22281.5
+1563,Low income,2010,Floods,625.6
+1564,Low income,2010,Storms,271.9
+1565,Low income,2010,Landslides,313.1
+1566,Low income,2010,Wildfires,6.1
+1567,Low income,2010,ExtremeTemperature,6.2
+1568,Lower middle income,1900,Drought,126100
+1569,Lower middle income,1900,Earthquakes,2033.1
+1570,Lower middle income,1900,VolcanicActivities,1.7
+1571,Lower middle income,1900,Storms,101.2
+1572,Lower middle income,1910,Earthquakes,11.2
+1573,Lower middle income,1910,VolcanicActivities,133.5
+1574,Lower middle income,1910,Storms,30
+1575,Lower middle income,1920,Drought,2400
+1576,Lower middle income,1920,Earthquakes,2.9
+1577,Lower middle income,1920,Floods,303.6
+1578,Lower middle income,1920,Storms,471.9
+1579,Lower middle income,1930,Earthquakes,6305.9
+1580,Lower middle income,1930,VolcanicActivities,50.6
+1581,Lower middle income,1930,Storms,6611.8
+1582,Lower middle income,1940,Drought,345000
+1583,Lower middle income,1940,Earthquakes,436.3
+1584,Lower middle income,1940,Storms,11413.7
+1585,Lower middle income,1940,Landslides,50
+1586,Lower middle income,1950,Earthquakes,912.1
+1587,Lower middle income,1950,VolcanicActivities,358.4
+1588,Lower middle income,1950,Floods,512.5
+1589,Lower middle income,1950,Storms,793.3
+1590,Lower middle income,1950,Landslides,15.7
+1591,Lower middle income,1950,ExtremeTemperature,116.2
+1592,Lower middle income,1960,Drought,150000
+1593,Lower middle income,1960,Earthquakes,1278.6
+1594,Lower middle income,1960,VolcanicActivities,35.8
+1595,Lower middle income,1960,Floods,2380.3
+1596,Lower middle income,1960,MassMovements,15
+1597,Lower middle income,1960,Storms,11636
+1598,Lower middle income,1960,Landslides,119.4
+1599,Lower middle income,1960,ExtremeTemperature,50
+1600,Lower middle income,1970,Drought,1.8
+1601,Lower middle income,1970,Earthquakes,2116.9
+1602,Lower middle income,1970,VolcanicActivities,0.1
+1603,Lower middle income,1970,Floods,4210.7
+1604,Lower middle income,1970,Storms,34904.5
+1605,Lower middle income,1970,Landslides,372.6
+1606,Lower middle income,1970,Wildfires,0.2
+1607,Lower middle income,1970,ExtremeTemperature,89.5
+1608,Lower middle income,1980,Drought,80
+1609,Lower middle income,1980,Earthquakes,536.1
+1610,Lower middle income,1980,VolcanicActivities,178.3
+1611,Lower middle income,1980,Floods,2441.2
+1612,Lower middle income,1980,MassMovements,56.2
+1613,Lower middle income,1980,Storms,3474.9
+1614,Lower middle income,1980,Landslides,156.4
+1615,Lower middle income,1980,Wildfires,1.2
+1616,Lower middle income,1980,ExtremeTemperature,229.4
+1617,Lower middle income,1990,Drought,29.6
+1618,Lower middle income,1990,Earthquakes,1768.5
+1619,Lower middle income,1990,VolcanicActivities,72.9
+1620,Lower middle income,1990,Floods,3073.1
+1621,Lower middle income,1990,MassMovements,3.5
+1622,Lower middle income,1990,Storms,19608.1
+1623,Lower middle income,1990,Landslides,273.5
+1624,Lower middle income,1990,Wildfires,14.6
+1625,Lower middle income,1990,ExtremeTemperature,559.6
+1626,Lower middle income,2000,Drought,19.1
+1627,Lower middle income,2000,Earthquakes,15101.5
+1628,Lower middle income,2000,VolcanicActivities,0.3
+1629,Lower middle income,2000,Floods,2745.3
+1630,Lower middle income,2000,MassMovements,11.9
+1631,Lower middle income,2000,Storms,15517.5
+1632,Lower middle income,2000,Landslides,401.3
+1633,Lower middle income,2000,Wildfires,1
+1634,Lower middle income,2000,ExtremeTemperature,798.8
+1635,Lower middle income,2010,Drought,10.1
+1636,Lower middle income,2010,Earthquakes,1079.6
+1637,Lower middle income,2010,Floods,2872.6
+1638,Lower middle income,2010,MassMovements,4.6
+1639,Lower middle income,2010,Storms,1811.2
+1640,Lower middle income,2010,Landslides,199
+1641,Lower middle income,2010,Wildfires,3.6
+1642,Lower middle income,2010,ExtremeTemperature,677.3
+1643,Luxembourg,2000,ExtremeTemperature,17
+1644,Macao,2010,Storms,1
+1645,Madagascar,1960,Storms,11
+1646,Madagascar,1970,Storms,26.4
+1647,Madagascar,1980,Drought,20
+1648,Madagascar,1980,Storms,45.4
+1649,Madagascar,1990,Storms,43.1
+1650,Madagascar,2000,Floods,5.2
+1651,Madagascar,2000,Storms,95.8
+1652,Madagascar,2010,Floods,3.5
+1653,Madagascar,2010,Storms,61.3
+1654,Malawi,1980,Earthquakes,0.9
+1655,Malawi,1980,Floods,1.3
+1656,Malawi,1990,Floods,47.7
+1657,Malawi,2000,Drought,50
+1658,Malawi,2000,Earthquakes,0.4
+1659,Malawi,2000,Floods,9.1
+1660,Malawi,2000,Storms,1.1
+1661,Malawi,2010,Floods,36.6
+1662,Malawi,2010,Storms,0.5
+1663,Malawi,2010,Landslides,0.8
+1664,Malaysia,1960,Floods,5.6
+1665,Malaysia,1960,Storms,2.1
+1666,Malaysia,1970,Floods,6.1
+1667,Malaysia,1980,Floods,5.1
+1668,Malaysia,1990,Floods,3.1
+1669,Malaysia,1990,MassMovements,7.2
+1670,Malaysia,1990,Storms,27.2
+1671,Malaysia,1990,Landslides,7
+1672,Malaysia,2000,Earthquakes,8
+1673,Malaysia,2000,Floods,11.2
+1674,Malaysia,2000,Storms,0.3
+1675,Malaysia,2000,Landslides,1
+1676,Malaysia,2010,Earthquakes,2.4
+1677,Malaysia,2010,Floods,3.7
+1678,Malaysia,2010,Landslides,1.6
+1679,Maldives,2000,Earthquakes,10.2
+1680,Mali,1980,Floods,1.8
+1681,Mali,1990,Floods,0.5
+1682,Mali,2000,Floods,6.3
+1683,Mali,2010,Floods,7.1
+1684,Martinique,1900,VolcanicActivities,3000
+1685,Martinique,1960,Storms,2.5
+1686,Martinique,1970,Storms,4.5
+1687,Martinique,1990,Storms,1
+1688,Martinique,2000,Earthquakes,0.1
+1689,Martinique,2000,Storms,0.1
+1690,Martinique,2010,Storms,0.1
+1691,Mauritania,1990,Storms,0.5
+1692,Mauritania,2000,Floods,4.5
+1693,Mauritania,2010,Floods,1.1
+1694,Mauritania,2010,Storms,1.8
+1695,Mauritius,1960,Storms,4.2
+1696,Mauritius,1970,Storms,1.6
+1697,Mauritius,1980,Storms,0.2
+1698,Mauritius,1990,Storms,0.5
+1699,Mauritius,2000,Storms,0.5
+1700,Mauritius,2010,Floods,1.1
+1701,Mexico,1910,Earthquakes,4.5
+1702,Mexico,1920,Earthquakes,64.8
+1703,Mexico,1920,Wildfires,6
+1704,Mexico,1930,Earthquakes,43.4
+1705,Mexico,1940,VolcanicActivities,100
+1706,Mexico,1950,Earthquakes,18.5
+1707,Mexico,1950,Floods,214
+1708,Mexico,1950,Storms,181
+1709,Mexico,1950,Landslides,10
+1710,Mexico,1960,Earthquakes,7.8
+1711,Mexico,1960,Floods,2.7
+1712,Mexico,1960,Storms,61.9
+1713,Mexico,1960,Landslides,1.8
+1714,Mexico,1960,ExtremeTemperature,9
+1715,Mexico,1970,Earthquakes,57
+1716,Mexico,1970,Floods,20.8
+1717,Mexico,1970,Storms,78.9
+1718,Mexico,1980,Earthquakes,959.4
+1719,Mexico,1980,VolcanicActivities,10
+1720,Mexico,1980,Floods,20.5
+1721,Mexico,1980,Storms,89.2
+1722,Mexico,1980,Landslides,5
+1723,Mexico,1980,ExtremeTemperature,2.3
+1724,Mexico,1990,Earthquakes,11.1
+1725,Mexico,1990,VolcanicActivities,2
+1726,Mexico,1990,Floods,121.9
+1727,Mexico,1990,Storms,78.4
+1728,Mexico,1990,Landslides,2.4
+1729,Mexico,1990,Wildfires,5
+1730,Mexico,1990,ExtremeTemperature,91.6
+1731,Mexico,2000,Earthquakes,2.9
+1732,Mexico,2000,Floods,34.4
+1733,Mexico,2000,Storms,14.4
+1734,Mexico,2000,Landslides,6.9
+1735,Mexico,2000,ExtremeTemperature,15.6
+1736,Mexico,2010,Earthquakes,47.6
+1737,Mexico,2010,Floods,21.5
+1738,Mexico,2010,Storms,49.4
+1739,Mexico,2010,Landslides,7.1
+1740,Mexico,2010,ExtremeTemperature,0.3
+1741,Micronesia,1980,Storms,0.5
+1742,Micronesia,2000,Storms,4.8
+1743,Micronesia,2010,Storms,0.5
+1744,Moldova,1990,Floods,5.6
+1745,Moldova,1990,Storms,0.3
+1746,Moldova,2000,Drought,0.2
+1747,Moldova,2000,Floods,0.4
+1748,Moldova,2000,ExtremeTemperature,1.3
+1749,Moldova,2010,Floods,0.1
+1750,Moldova,2010,ExtremeTemperature,1
+1751,Mongolia,1950,Earthquakes,120
+1752,Mongolia,1960,Floods,5.7
+1753,Mongolia,1990,Floods,4.6
+1754,Mongolia,1990,Storms,4.9
+1755,Mongolia,1990,Wildfires,2.5
+1756,Mongolia,2000,Floods,4.1
+1757,Mongolia,2000,Storms,9.4
+1758,Mongolia,2000,ExtremeTemperature,0.5
+1759,Mongolia,2010,Floods,1.2
+1760,Mongolia,2010,Landslides,1.7
+1761,Montenegro,2010,ExtremeTemperature,0.1
+1762,Montserrat,1980,Storms,1.1
+1763,Montserrat,1990,VolcanicActivities,3.2
+1764,Morocco,1900,Earthquakes,10
+1765,Morocco,1950,Floods,16.1
+1766,Morocco,1960,Earthquakes,1201.1
+1767,Morocco,1960,Floods,32
+1768,Morocco,1970,Floods,3.7
+1769,Morocco,1980,MassMovements,3.1
+1770,Morocco,1980,Landslides,0.1
+1771,Morocco,1990,Floods,87.6
+1772,Morocco,1990,Storms,1.4
+1773,Morocco,2000,Earthquakes,62.8
+1774,Morocco,2000,Floods,22.1
+1775,Morocco,2000,Storms,0.1
+1776,Morocco,2010,Floods,7.7
+1777,Morocco,2010,Storms,4.9
+1778,Morocco,2010,Landslides,1.5
+1779,Mozambique,1950,Storms,10.7
+1780,Mozambique,1970,Floods,84.1
+1781,Mozambique,1970,Storms,0.7
+1782,Mozambique,1980,Drought,10005
+1783,Mozambique,1980,Floods,1
+1784,Mozambique,1980,Storms,20.9
+1785,Mozambique,1990,Floods,5.8
+1786,Mozambique,1990,Storms,25.1
+1787,Mozambique,1990,Landslides,8.7
+1788,Mozambique,2000,Drought,1.8
+1789,Mozambique,2000,Earthquakes,0.4
+1790,Mozambique,2000,Floods,101.2
+1791,Mozambique,2000,Storms,6.5
+1792,Mozambique,2000,Wildfires,4.9
+1793,Mozambique,2010,Floods,44.7
+1794,Mozambique,2010,Storms,71.2
+1795,Mozambique,2010,Landslides,1.7
+1796,Myanmar,1900,Storms,60
+1797,Myanmar,1920,Storms,270.6
+1798,Myanmar,1930,Earthquakes,58.6
+1799,Myanmar,1930,Storms,100
+1800,Myanmar,1940,Earthquakes,1.5
+1801,Myanmar,1960,Floods,3.4
+1802,Myanmar,1960,Storms,144.8
+1803,Myanmar,1970,Floods,9.3
+1804,Myanmar,1970,Storms,20
+1805,Myanmar,1980,Storms,1.1
+1806,Myanmar,1980,Wildfires,0.8
+1807,Myanmar,1990,Floods,16.9
+1808,Myanmar,1990,Storms,1.7
+1809,Myanmar,2000,Earthquakes,7.1
+1810,Myanmar,2000,Floods,10.2
+1811,Myanmar,2000,Storms,13863.6
+1812,Myanmar,2000,Landslides,4.1
+1813,Myanmar,2010,Earthquakes,11.6
+1814,Myanmar,2010,Floods,50.4
+1815,Myanmar,2010,MassMovements,1.7
+1816,Myanmar,2010,Storms,8
+1817,Myanmar,2010,Landslides,19.2
+1818,Namibia,2000,Floods,14.8
+1819,Namibia,2010,Floods,11.6
+1820,Nepal,1950,Floods,6
+1821,Nepal,1960,Earthquakes,8
+1822,Nepal,1960,Floods,27.6
+1823,Nepal,1960,MassMovements,15
+1824,Nepal,1970,Floods,48
+1825,Nepal,1970,Landslides,40.1
+1826,Nepal,1980,Earthquakes,80.9
+1827,Nepal,1980,Floods,151.1
+1828,Nepal,1980,Storms,7.1
+1829,Nepal,1980,Landslides,17.6
+1830,Nepal,1990,Floods,253.7
+1831,Nepal,1990,Storms,2.6
+1832,Nepal,1990,Landslides,22.8
+1833,Nepal,1990,Wildfires,8.8
+1834,Nepal,2000,Floods,106.5
+1835,Nepal,2000,Landslides,80.1
+1836,Nepal,2000,ExtremeTemperature,12.6
+1837,Nepal,2010,Earthquakes,897.6
+1838,Nepal,2010,Floods,132.3
+1839,Nepal,2010,Storms,11.1
+1840,Nepal,2010,Landslides,28.8
+1841,Nepal,2010,Wildfires,1.1
+1842,Nepal,2010,ExtremeTemperature,14.1
+1843,Netherlands,1950,Floods,200
+1844,Netherlands,1990,Floods,0.1
+1845,Netherlands,1990,Storms,2.3
+1846,Netherlands,2000,Storms,1.1
+1847,Netherlands,2000,ExtremeTemperature,196.5
+1848,Netherlands,2010,Storms,0.5
+1849,Netherlands,2010,ExtremeTemperature,40.1
+1850,Netherlands Antilles,1980,Storms,1.1
+1851,Netherlands Antilles,1990,Storms,0.2
+1852,New Caledonia,1930,Storms,0.3
+1853,New Caledonia,1940,Storms,0.2
+1854,New Caledonia,1950,Storms,0.4
+1855,New Caledonia,1970,Storms,0.3
+1856,New Caledonia,1980,Storms,0.6
+1857,New Caledonia,2000,Storms,0.2
+1858,New Zealand,1920,Earthquakes,1.7
+1859,New Zealand,1930,Earthquakes,25.6
+1860,New Zealand,1930,Floods,2.1
+1861,New Zealand,1950,VolcanicActivities,15
+1862,New Zealand,1960,Earthquakes,0.3
+1863,New Zealand,1960,Storms,5
+1864,New Zealand,1980,Earthquakes,0.1
+1865,New Zealand,1980,Floods,0.6
+1866,New Zealand,1980,Storms,1.1
+1867,New Zealand,1990,Storms,2.4
+1868,New Zealand,2000,Floods,0.4
+1869,New Zealand,2000,Storms,0.3
+1870,New Zealand,2010,Earthquakes,18.4
+1871,New Zealand,2010,VolcanicActivities,2.1
+1872,New Zealand,2010,Floods,0.1
+1873,New Zealand,2010,Storms,0.3
+1874,Nicaragua,1930,Earthquakes,200
+1875,Nicaragua,1950,Earthquakes,50
+1876,Nicaragua,1960,Floods,32.5
+1877,Nicaragua,1970,Earthquakes,1000
+1878,Nicaragua,1970,Floods,1.6
+1879,Nicaragua,1970,Storms,3.5
+1880,Nicaragua,1980,Storms,20.1
+1881,Nicaragua,1990,Earthquakes,17.9
+1882,Nicaragua,1990,VolcanicActivities,0.1
+1883,Nicaragua,1990,Floods,1.5
+1884,Nicaragua,1990,Storms,345.1
+1885,Nicaragua,2000,Earthquakes,0.7
+1886,Nicaragua,2000,Floods,2.7
+1887,Nicaragua,2000,Storms,22.8
+1888,Nicaragua,2000,Landslides,2.9
+1889,Nicaragua,2010,Earthquakes,0.2
+1890,Nicaragua,2010,Floods,13.2
+1891,Nicaragua,2010,Storms,2
+1892,Niger,1910,Drought,8500
+1893,Niger,1980,Floods,2
+1894,Niger,1990,Floods,7.4
+1895,Niger,2000,Floods,3.4
+1896,Niger,2000,Storms,0.4
+1897,Niger,2010,Floods,42.8
+1898,Nigeria,1970,Storms,10
+1899,Nigeria,1980,Floods,13
+1900,Nigeria,1990,Floods,13.4
+1901,Nigeria,1990,Storms,10
+1902,Nigeria,1990,ExtremeTemperature,1.8
+1903,Nigeria,2000,Floods,53.6
+1904,Nigeria,2000,Landslides,3.2
+1905,Nigeria,2000,ExtremeTemperature,6
+1906,Nigeria,2010,Floods,103.8
+1907,Nigeria,2010,Storms,5.4
+1908,North America,1900,Earthquakes,390
+1909,North America,1900,VolcanicActivities,3856.5
+1910,North America,1900,Floods,62.2
+1911,North America,1900,MassMovements,12.7
+1912,North America,1900,Storms,700.2
+1913,North America,1900,Landslides,5.3
+1914,North America,1910,Earthquakes,526.7
+1915,North America,1910,Storms,364.8
+1916,North America,1910,Landslides,11.8
+1917,North America,1910,Wildfires,107.3
+1918,North America,1920,Earthquakes,70.1
+1919,North America,1920,Floods,24.6
+1920,North America,1920,Storms,605.8
+1921,North America,1920,Wildfires,10.3
+1922,North America,1930,Earthquakes,295
+1923,North America,1930,Floods,50.1
+1924,North America,1930,MassMovements,4
+1925,North America,1930,Storms,1582.2
+1926,North America,1930,Landslides,20
+1927,North America,1930,ExtremeTemperature,169.3
+1928,North America,1940,Earthquakes,25.5
+1929,North America,1940,VolcanicActivities,100
+1930,North America,1940,Floods,4018
+1931,North America,1940,Storms,119.1
+1932,North America,1940,Wildfires,12.1
+1933,North America,1950,Earthquakes,187.2
+1934,North America,1950,Floods,233.9
+1935,North America,1950,MassMovements,0.3
+1936,North America,1950,Storms,517.8
+1937,North America,1950,Landslides,36.2
+1938,North America,1950,Wildfires,1.1
+1939,North America,1950,ExtremeTemperature,17.6
+1940,North America,1960,Earthquakes,40.2
+1941,North America,1960,VolcanicActivities,10.2
+1942,North America,1960,Floods,112.9
+1943,North America,1960,Storms,1219.4
+1944,North America,1960,Landslides,4.4
+1945,North America,1960,ExtremeTemperature,50.2
+1946,North America,1970,Earthquakes,3365.7
+1947,North America,1970,VolcanicActivities,0.4
+1948,North America,1970,Floods,117.1
+1949,North America,1970,MassMovements,3.1
+1950,North America,1970,Storms,1185.6
+1951,North America,1970,Landslides,320
+1952,North America,1970,ExtremeTemperature,3.2
+1953,North America,1980,Earthquakes,1080.8
+1954,North America,1980,VolcanicActivities,19
+1955,North America,1980,Floods,247.6
+1956,North America,1980,MassMovements,1
+1957,North America,1980,Storms,359.3
+1958,North America,1980,Landslides,19.8
+1959,North America,1980,Wildfires,0.1
+1960,North America,1980,ExtremeTemperature,168.3
+1961,North America,1990,Earthquakes,45.2
+1962,North America,1990,VolcanicActivities,5.3
+1963,North America,1990,Floods,257.8
+1964,North America,1990,MassMovements,2.3
+1965,North America,1990,Storms,2355.3
+1966,North America,1990,Landslides,9.7
+1967,North America,1990,Wildfires,9.8
+1968,North America,1990,ExtremeTemperature,207.2
+1969,North America,2000,Drought,4.1
+1970,North America,2000,Earthquakes,126
+1971,North America,2000,VolcanicActivities,0.2
+1972,North America,2000,Floods,470.7
+1973,North America,2000,MassMovements,3.6
+1974,North America,2000,Storms,977.4
+1975,North America,2000,Landslides,30.9
+1976,North America,2000,Wildfires,5.6
+1977,North America,2000,ExtremeTemperature,55
+1978,North America,2010,Earthquakes,22311.8
+1979,North America,2010,VolcanicActivities,46.1
+1980,North America,2010,Floods,129.6
+1981,North America,2010,Storms,450
+1982,North America,2010,Landslides,57.5
+1983,North America,2010,Wildfires,21.6
+1984,North America,2010,ExtremeTemperature,26.8
+1985,North Korea,1980,Floods,31.5
+1986,North Korea,1990,Floods,27.6
+1987,North Korea,1990,Storms,0.6
+1988,North Korea,2000,Floods,122.9
+1989,North Korea,2000,Storms,4.9
+1990,North Korea,2010,Floods,93.6
+1991,North Korea,2010,Storms,18
+1992,North Macedonia,2000,Floods,0.2
+1993,North Macedonia,2000,Storms,0.1
+1994,North Macedonia,2000,Wildfires,0.1
+1995,North Macedonia,2000,ExtremeTemperature,3
+1996,North Macedonia,2010,Floods,3
+1997,North Macedonia,2010,ExtremeTemperature,0.4
+1998,Northern Mariana Islands,2000,Storms,0.3
+1999,Northern Mariana Islands,2010,Storms,0.2
+2000,Norway,1930,Landslides,7.3
+2001,Norway,1990,Floods,0.1
+2002,Norway,2010,Storms,0.4
+2003,Norway,2010,Landslides,0.1
+2004,Oceania,1920,Earthquakes,1.7
+2005,Oceania,1930,Earthquakes,30.6
+2006,Oceania,1930,VolcanicActivities,50.6
+2007,Oceania,1930,Floods,2.1
+2008,Oceania,1930,Storms,20.3
+2009,Oceania,1930,Wildfires,7.1
+2010,Oceania,1940,Storms,0.8
+2011,Oceania,1940,Wildfires,4.9
+2012,Oceania,1950,Earthquakes,300
+2013,Oceania,1950,VolcanicActivities,315
+2014,Oceania,1950,Floods,7
+2015,Oceania,1950,Storms,32.7
+2016,Oceania,1960,Drought,60
+2017,Oceania,1960,Earthquakes,0.3
+2018,Oceania,1960,Floods,0.1
+2019,Oceania,1960,Storms,42.6
+2020,Oceania,1960,Wildfires,7.4
+2021,Oceania,1970,Earthquakes,26.8
+2022,Oceania,1970,Floods,6
+2023,Oceania,1970,Storms,25.7
+2024,Oceania,1970,Landslides,11.3
+2025,Oceania,1970,Wildfires,0.3
+2026,Oceania,1980,Earthquakes,2.5
+2027,Oceania,1980,Floods,16.2
+2028,Oceania,1980,MassMovements,7.6
+2029,Oceania,1980,Storms,29.6
+2030,Oceania,1980,Landslides,1.1
+2031,Oceania,1980,Wildfires,8.6
+2032,Oceania,1990,Drought,6
+2033,Oceania,1990,Earthquakes,225.2
+2034,Oceania,1990,VolcanicActivities,0.9
+2035,Oceania,1990,Floods,4
+2036,Oceania,1990,Storms,24.6
+2037,Oceania,1990,Landslides,27.9
+2038,Oceania,1990,Wildfires,0.7
+2039,Oceania,1990,ExtremeTemperature,2.3
+2040,Oceania,2000,Earthquakes,25.1
+2041,Oceania,2000,Floods,9.3
+2042,Oceania,2000,MassMovements,1
+2043,Oceania,2000,Storms,30
+2044,Oceania,2000,Landslides,8.3
+2045,Oceania,2000,Wildfires,20.2
+2046,Oceania,2000,ExtremeTemperature,34.7
+2047,Oceania,2010,Drought,2.4
+2048,Oceania,2010,Earthquakes,37.5
+2049,Oceania,2010,VolcanicActivities,2.1
+2050,Oceania,2010,Floods,12.1
+2051,Oceania,2010,Storms,14.8
+2052,Oceania,2010,Landslides,7
+2053,Oceania,2010,Wildfires,4.1
+2054,Oceania,2010,ExtremeTemperature,13.9
+2055,Oman,1970,Storms,10.7
+2056,Oman,1980,Storms,2.6
+2057,Oman,2000,Storms,11.3
+2058,Oman,2010,Floods,1.1
+2059,Oman,2010,Storms,3.6
+2060,Pakistan,1900,Earthquakes,23.1
+2061,Pakistan,1930,Earthquakes,6000
+2062,Pakistan,1940,Earthquakes,400
+2063,Pakistan,1950,Earthquakes,1.2
+2064,Pakistan,1950,Floods,369.1
+2065,Pakistan,1950,Landslides,4.8
+2066,Pakistan,1950,ExtremeTemperature,11.1
+2067,Pakistan,1960,Floods,3.2
+2068,Pakistan,1960,Storms,1045
+2069,Pakistan,1970,Earthquakes,480
+2070,Pakistan,1970,Floods,206.6
+2071,Pakistan,1970,ExtremeTemperature,8.4
+2072,Pakistan,1980,Earthquakes,28.9
+2073,Pakistan,1980,Floods,51.9
+2074,Pakistan,1980,MassMovements,5
+2075,Pakistan,1980,Storms,12.1
+2076,Pakistan,1980,Landslides,9.5
+2077,Pakistan,1990,Drought,14.3
+2078,Pakistan,1990,Earthquakes,41.3
+2079,Pakistan,1990,Floods,418
+2080,Pakistan,1990,Storms,95.6
+2081,Pakistan,1990,Landslides,19.5
+2082,Pakistan,1990,ExtremeTemperature,68.4
+2083,Pakistan,2000,Earthquakes,7357.9
+2084,Pakistan,2000,Floods,226.5
+2085,Pakistan,2000,Storms,36.9
+2086,Pakistan,2000,Landslides,23.9
+2087,Pakistan,2000,ExtremeTemperature,52.7
+2088,Pakistan,2010,Drought,7.7
+2089,Pakistan,2010,Earthquakes,79.2
+2090,Pakistan,2010,Floods,484.5
+2091,Pakistan,2010,MassMovements,1.3
+2092,Pakistan,2010,Storms,13.8
+2093,Pakistan,2010,Landslides,21.2
+2094,Pakistan,2010,ExtremeTemperature,154.8
+2095,Palestine,2010,Floods,0.5
+2096,Palestine,2010,Storms,0.5
+2097,Panama,1960,Floods,2
+2098,Panama,1960,Storms,0.1
+2099,Panama,1970,Floods,7.4
+2100,Panama,1980,Floods,0.3
+2101,Panama,1980,Storms,3
+2102,Panama,1990,Earthquakes,3
+2103,Panama,1990,Floods,1.4
+2104,Panama,1990,Storms,1.5
+2105,Panama,2000,Earthquakes,0.2
+2106,Panama,2000,Floods,6.6
+2107,Panama,2010,Floods,3
+2108,Panama,2010,Storms,1.4
+2109,Papua New Guinea,1930,VolcanicActivities,50.6
+2110,Papua New Guinea,1950,Earthquakes,300
+2111,Papua New Guinea,1950,VolcanicActivities,300
+2112,Papua New Guinea,1970,Earthquakes,1.5
+2113,Papua New Guinea,1970,Landslides,11.3
+2114,Papua New Guinea,1980,Earthquakes,1.1
+2115,Papua New Guinea,1980,Floods,5.6
+2116,Papua New Guinea,1980,MassMovements,7.6
+2117,Papua New Guinea,1990,Drought,6
+2118,Papua New Guinea,1990,Earthquakes,223.5
+2119,Papua New Guinea,1990,VolcanicActivities,0.9
+2120,Papua New Guinea,1990,Floods,0.2
+2121,Papua New Guinea,1990,Storms,4.7
+2122,Papua New Guinea,1990,Landslides,23.8
+2123,Papua New Guinea,2000,Earthquakes,0.8
+2124,Papua New Guinea,2000,Floods,0.2
+2125,Papua New Guinea,2000,MassMovements,1
+2126,Papua New Guinea,2000,Storms,17.2
+2127,Papua New Guinea,2000,Landslides,8.3
+2128,Papua New Guinea,2010,Drought,2.4
+2129,Papua New Guinea,2010,Earthquakes,18.1
+2130,Papua New Guinea,2010,Floods,0.7
+2131,Papua New Guinea,2010,Landslides,7
+2132,Paraguay,1960,Floods,0.6
+2133,Paraguay,1980,Floods,7.6
+2134,Paraguay,1990,Drought,1.2
+2135,Paraguay,1990,Floods,5.5
+2136,Paraguay,1990,Storms,3.3
+2137,Paraguay,2000,Drought,0.4
+2138,Paraguay,2000,Wildfires,0.8
+2139,Paraguay,2000,ExtremeTemperature,0.8
+2140,Paraguay,2010,Floods,5.2
+2141,Paraguay,2010,Storms,0.7
+2142,Paraguay,2010,ExtremeTemperature,1.2
+2143,Peru,1910,Earthquakes,18.4
+2144,Peru,1930,Earthquakes,3.7
+2145,Peru,1940,Earthquakes,204.2
+2146,Peru,1940,Landslides,500
+2147,Peru,1950,Earthquakes,12
+2148,Peru,1950,Landslides,13
+2149,Peru,1960,Earthquakes,34.4
+2150,Peru,1960,Floods,8.5
+2151,Peru,1960,MassMovements,200
+2152,Peru,1960,Storms,6
+2153,Peru,1960,Landslides,4.1
+2154,Peru,1970,Earthquakes,6694.8
+2155,Peru,1970,Floods,27.6
+2156,Peru,1970,Landslides,141
+2157,Peru,1980,Earthquakes,5.4
+2158,Peru,1980,Floods,78.3
+2159,Peru,1980,Landslides,123.8
+2160,Peru,1980,ExtremeTemperature,1.7
+2161,Peru,1990,Earthquakes,29.2
+2162,Peru,1990,Floods,30
+2163,Peru,1990,Storms,51.8
+2164,Peru,1990,Landslides,43.8
+2165,Peru,1990,ExtremeTemperature,2.5
+2166,Peru,2000,Earthquakes,74.9
+2167,Peru,2000,Floods,29.7
+2168,Peru,2000,Storms,5.9
+2169,Peru,2000,Landslides,18.7
+2170,Peru,2000,ExtremeTemperature,77
+2171,Peru,2010,Earthquakes,1.8
+2172,Peru,2010,Floods,48.7
+2173,Peru,2010,Storms,1.6
+2174,Peru,2010,Landslides,10.5
+2175,Peru,2010,ExtremeTemperature,120.8
+2176,Philippines,1900,Storms,24
+2177,Philippines,1910,Earthquakes,10
+2178,Philippines,1910,VolcanicActivities,133.5
+2179,Philippines,1920,Earthquakes,1.7
+2180,Philippines,1930,Earthquakes,0.1
+2181,Philippines,1930,Storms,128.5
+2182,Philippines,1940,Earthquakes,7.2
+2183,Philippines,1940,Storms,133.3
+2184,Philippines,1950,Earthquakes,41.3
+2185,Philippines,1950,VolcanicActivities,58.4
+2186,Philippines,1950,Storms,221.7
+2187,Philippines,1960,Earthquakes,30.3
+2188,Philippines,1960,VolcanicActivities,35.8
+2189,Philippines,1960,Floods,2.9
+2190,Philippines,1960,Storms,168.8
+2191,Philippines,1960,Landslides,4
+2192,Philippines,1970,Earthquakes,602.9
+2193,Philippines,1970,Floods,84.5
+2194,Philippines,1970,Storms,624.1
+2195,Philippines,1970,Landslides,2.2
+2196,Philippines,1980,Earthquakes,2.1
+2197,Philippines,1980,Floods,52.5
+2198,Philippines,1980,MassMovements,35
+2199,Philippines,1980,Storms,720.3
+2200,Philippines,1980,Landslides,35.3
+2201,Philippines,1990,Drought,0.8
+2202,Philippines,1990,Earthquakes,250.4
+2203,Philippines,1990,VolcanicActivities,71.9
+2204,Philippines,1990,Floods,109.8
+2205,Philippines,1990,Storms,971.7
+2206,Philippines,1990,Landslides,19.3
+2207,Philippines,1990,Wildfires,0.2
+2208,Philippines,2000,Earthquakes,1.5
+2209,Philippines,2000,Floods,48.9
+2210,Philippines,2000,MassMovements,1.1
+2211,Philippines,2000,Storms,714.1
+2212,Philippines,2000,Landslides,172.7
+2213,Philippines,2010,Earthquakes,45.1
+2214,Philippines,2010,Floods,68.2
+2215,Philippines,2010,Storms,1255
+2216,Philippines,2010,Landslides,10.6
+2217,Poland,1920,Storms,8.2
+2218,Poland,1990,Floods,6.4
+2219,Poland,1990,Storms,0.4
+2220,Poland,1990,Wildfires,3.5
+2221,Poland,1990,ExtremeTemperature,26.8
+2222,Poland,2000,Floods,3
+2223,Poland,2000,Storms,3.8
+2224,Poland,2000,ExtremeTemperature,110.8
+2225,Poland,2010,Floods,2.1
+2226,Poland,2010,Storms,1.6
+2227,Poland,2010,ExtremeTemperature,70.9
+2228,Portugal,1900,Earthquakes,3
+2229,Portugal,1940,Storms,14.7
+2230,Portugal,1960,Earthquakes,0.2
+2231,Portugal,1960,Floods,46.2
+2232,Portugal,1960,Wildfires,2.5
+2233,Portugal,1970,Floods,2.3
+2234,Portugal,1970,Storms,1.1
+2235,Portugal,1980,Earthquakes,6.9
+2236,Portugal,1980,Floods,4.9
+2237,Portugal,1980,Wildfires,2.9
+2238,Portugal,1990,Earthquakes,1
+2239,Portugal,1990,Floods,1
+2240,Portugal,1990,Storms,2.9
+2241,Portugal,1990,Landslides,2.9
+2242,Portugal,2000,Floods,0.9
+2243,Portugal,2000,Storms,0.4
+2244,Portugal,2000,Wildfires,3.1
+2245,Portugal,2000,ExtremeTemperature,319.9
+2246,Portugal,2010,Floods,4.4
+2247,Portugal,2010,Storms,0.9
+2248,Portugal,2010,Wildfires,12.2
+2249,Puerto Rico,1910,Earthquakes,11.6
+2250,Puerto Rico,1920,Storms,30
+2251,Puerto Rico,1930,Storms,22.5
+2252,Puerto Rico,1970,Floods,6
+2253,Puerto Rico,1970,Storms,2.9
+2254,Puerto Rico,1980,Floods,50
+2255,Puerto Rico,1980,Landslides,12.6
+2256,Puerto Rico,1990,Floods,1.8
+2257,Puerto Rico,1990,Storms,2
+2258,Puerto Rico,2000,Floods,0.4
+2259,Puerto Rico,2000,Storms,0.3
+2260,Puerto Rico,2010,Floods,0.1
+2261,Puerto Rico,2010,Storms,6.7
+2262,Reunion,1940,Storms,16.5
+2263,Reunion,1980,Storms,4.5
+2264,Reunion,1980,Landslides,1
+2265,Reunion,1990,Storms,1.4
+2266,Reunion,2000,Storms,0.4
+2267,Reunion,2010,Storms,0.1
+2268,Romania,1920,Floods,100
+2269,Romania,1920,Storms,0.6
+2270,Romania,1940,Earthquakes,98
+2271,Romania,1970,Earthquakes,164.1
+2272,Romania,1970,Floods,27.5
+2273,Romania,1990,Earthquakes,0.9
+2274,Romania,1990,Floods,19.7
+2275,Romania,1990,Storms,1.5
+2276,Romania,1990,ExtremeTemperature,9.6
+2277,Romania,2000,Floods,19.6
+2278,Romania,2000,Storms,2.9
+2279,Romania,2000,ExtremeTemperature,28.2
+2280,Romania,2010,Floods,4.7
+2281,Romania,2010,Storms,0.9
+2282,Romania,2010,ExtremeTemperature,15.3
+2283,Russia,1990,Earthquakes,200.1
+2284,Russia,1990,Floods,20.4
+2285,Russia,1990,Storms,17.7
+2286,Russia,1990,Landslides,31.6
+2287,Russia,1990,Wildfires,6.7
+2288,Russia,1990,ExtremeTemperature,56.4
+2289,Russia,2000,Earthquakes,1.8
+2290,Russia,2000,Floods,28
+2291,Russia,2000,Storms,3.4
+2292,Russia,2000,Landslides,15.8
+2293,Russia,2000,Wildfires,0.9
+2294,Russia,2000,ExtremeTemperature,135.6
+2295,Russia,2010,Floods,28.2
+2296,Russia,2010,Storms,1.7
+2297,Russia,2010,Wildfires,9.3
+2298,Russia,2010,ExtremeTemperature,5599.4
+2299,Rwanda,1980,Drought,23.7
+2300,Rwanda,1980,Floods,4.8
+2301,Rwanda,2000,Earthquakes,8.1
+2302,Rwanda,2000,Floods,11.1
+2303,Rwanda,2000,Landslides,2.4
+2304,Rwanda,2010,Floods,17.4
+2305,Rwanda,2010,Storms,0.3
+2306,Rwanda,2010,Landslides,8.9
+2307,Saint Barthelemy,2010,Storms,0.4
+2308,Saint Kitts and Nevis,1980,Storms,0.1
+2309,Saint Kitts and Nevis,1990,Storms,0.5
+2310,Saint Lucia,1960,Storms,1
+2311,Saint Lucia,1980,Storms,0.9
+2312,Saint Lucia,1990,Storms,0.4
+2313,Saint Lucia,2000,Storms,0.1
+2314,Saint Lucia,2010,Floods,0.6
+2315,Saint Lucia,2010,Storms,1.4
+2316,Saint Martin (French Part),2010,Storms,1.2
+2317,Saint Vincent and the Grenadines,1900,VolcanicActivities,156.5
+2318,Saint Vincent and the Grenadines,1950,Storms,12.2
+2319,Saint Vincent and the Grenadines,1960,Storms,0.2
+2320,Saint Vincent and the Grenadines,1970,VolcanicActivities,0.2
+2321,Saint Vincent and the Grenadines,1990,Floods,0.3
+2322,Saint Vincent and the Grenadines,2000,Storms,0.4
+2323,Saint Vincent and the Grenadines,2010,Floods,1.2
+2324,Saint Vincent and the Grenadines,2010,Storms,0.1
+2325,Samoa,1960,Storms,26
+2326,Samoa,1990,Storms,2.1
+2327,Samoa,2000,Earthquakes,14.8
+2328,Samoa,2000,Storms,1
+2329,Samoa,2010,Storms,1.2
+2330,Saudi Arabia,1960,Floods,2
+2331,Saudi Arabia,1980,Floods,3.2
+2332,Saudi Arabia,2000,Floods,26
+2333,Saudi Arabia,2010,Floods,16.1
+2334,Saudi Arabia,2010,Storms,0.3
+2335,Senegal,1990,Storms,18.7
+2336,Senegal,2000,Floods,5.1
+2337,Senegal,2000,Storms,0.2
+2338,Senegal,2010,Floods,4
+2339,Serbia,2010,Earthquakes,0.2
+2340,Serbia,2010,Floods,5.8
+2341,Serbia,2010,ExtremeTemperature,3.6
+2342,Serbia-Montenegro,1990,Floods,1.2
+2343,Serbia-Montenegro,2000,Earthquakes,0.1
+2344,Serbia-Montenegro,2000,Floods,0.2
+2345,Serbia-Montenegro,2000,ExtremeTemperature,0.6
+2346,Seychelles,1990,Floods,0.5
+2347,Seychelles,2000,Earthquakes,0.3
+2348,Sierra Leone,1970,Storms,0.1
+2349,Sierra Leone,1980,Storms,6
+2350,Sierra Leone,1990,Floods,1.2
+2351,Sierra Leone,1990,Storms,1.3
+2352,Sierra Leone,2000,Floods,13.3
+2353,Sierra Leone,2010,Floods,3.8
+2354,Sierra Leone,2010,Landslides,111.8
+2355,Sint Maarten (Dutch part),2010,Storms,0.4
+2356,Slovakia,1990,Floods,5.6
+2357,Slovakia,2000,Floods,0.4
+2358,Slovakia,2000,Storms,0.2
+2359,Slovakia,2000,Wildfires,0.6
+2360,Slovakia,2000,ExtremeTemperature,0.1
+2361,Slovakia,2010,Floods,0.5
+2362,Slovakia,2010,Storms,0.1
+2363,Slovakia,2010,ExtremeTemperature,12.7
+2364,Slovenia,2000,Earthquakes,0.1
+2365,Slovenia,2000,Storms,0.6
+2366,Slovenia,2000,ExtremeTemperature,28.9
+2367,Slovenia,2010,Floods,0.3
+2368,Slovenia,2010,ExtremeTemperature,0.1
+2369,Solomon Islands,1930,Earthquakes,5
+2370,Solomon Islands,1950,Storms,20
+2371,Solomon Islands,1960,Storms,1.6
+2372,Solomon Islands,1970,Earthquakes,25.2
+2373,Solomon Islands,1970,Storms,0.2
+2374,Solomon Islands,1980,Earthquakes,0.1
+2375,Solomon Islands,1980,Storms,10.1
+2376,Solomon Islands,1990,Storms,0.4
+2377,Solomon Islands,2000,Earthquakes,5.2
+2378,Solomon Islands,2000,Floods,2.1
+2379,Solomon Islands,2010,Earthquakes,1
+2380,Solomon Islands,2010,Floods,4.9
+2381,Solomon Islands,2010,Storms,0.9
+2382,Somalia,1960,Drought,5
+2383,Somalia,1960,Floods,20
+2384,Somalia,1970,Drought,1900
+2385,Somalia,1980,Drought,60
+2386,Somalia,1980,Floods,3.9
+2387,Somalia,1990,Drought,2.1
+2388,Somalia,1990,Floods,243.4
+2389,Somalia,1990,Storms,3
+2390,Somalia,2000,Drought,0.2
+2391,Somalia,2000,Earthquakes,29.8
+2392,Somalia,2000,Floods,14
+2393,Somalia,2010,Drought,2000
+2394,Somalia,2010,Floods,8
+2395,Somalia,2010,Storms,22.1
+2396,South Africa,1950,Floods,5.1
+2397,South Africa,1950,Storms,3.5
+2398,South Africa,1960,Earthquakes,0.9
+2399,South Africa,1970,Floods,5.6
+2400,South Africa,1980,Floods,63.5
+2401,South Africa,1980,Storms,7.4
+2402,South Africa,1990,Earthquakes,2.5
+2403,South Africa,1990,Floods,28
+2404,South Africa,1990,Storms,5.5
+2405,South Africa,1990,Landslides,3.4
+2406,South Africa,1990,Wildfires,3.4
+2407,South Africa,1990,ExtremeTemperature,3
+2408,South Africa,2000,Earthquakes,0.2
+2409,South Africa,2000,Floods,15.2
+2410,South Africa,2000,Storms,6.2
+2411,South Africa,2000,Wildfires,9.4
+2412,South Africa,2000,ExtremeTemperature,2.2
+2413,South Africa,2010,Earthquakes,0.1
+2414,South Africa,2010,Floods,19.9
+2415,South Africa,2010,Storms,7.3
+2416,South Africa,2010,Wildfires,0.9
+2417,South Africa,2010,ExtremeTemperature,1.1
+2418,South America,1900,Earthquakes,2040
+2419,South America,1910,Earthquakes,18.4
+2420,South America,1920,Earthquakes,196
+2421,South America,1920,Landslides,10
+2422,South America,1930,Earthquakes,3005.5
+2423,South America,1930,Landslides,19
+2424,South America,1940,Earthquakes,1829.7
+2425,South America,1940,VolcanicActivities,110
+2426,South America,1940,Floods,20
+2427,South America,1940,Storms,10
+2428,South America,1940,Landslides,500
+2429,South America,1950,Earthquakes,55.7
+2430,South America,1950,Floods,87.7
+2431,South America,1950,Storms,5.9
+2432,South America,1950,Landslides,38.3
+2433,South America,1960,Earthquakes,711.6
+2434,South America,1960,VolcanicActivities,0.4
+2435,South America,1960,Floods,284.8
+2436,South America,1960,MassMovements,200
+2437,South America,1960,Storms,15.4
+2438,South America,1960,Landslides,101
+2439,South America,1960,ExtremeTemperature,11.3
+2440,South America,1970,Earthquakes,6780.2
+2441,South America,1970,VolcanicActivities,0.1
+2442,South America,1970,Floods,216.7
+2443,South America,1970,Storms,21
+2444,South America,1970,Landslides,255.5
+2445,South America,1970,ExtremeTemperature,22.6
+2446,South America,1980,Drought,2
+2447,South America,1980,Earthquakes,552.3
+2448,South America,1980,VolcanicActivities,2180
+2449,South America,1980,Floods,397.4
+2450,South America,1980,MassMovements,16
+2451,South America,1980,Storms,30.3
+2452,South America,1980,Landslides,276.8
+2453,South America,1980,ExtremeTemperature,9.4
+2454,South America,1990,Drought,1.2
+2455,South America,1990,Earthquakes,204.7
+2456,South America,1990,VolcanicActivities,1.6
+2457,South America,1990,Floods,3158.1
+2458,South America,1990,MassMovements,7.5
+2459,South America,1990,Storms,68.3
+2460,South America,1990,Landslides,188.2
+2461,South America,1990,Wildfires,3.8
+2462,South America,1990,ExtremeTemperature,2.7
+2463,South America,2000,Drought,0.4
+2464,South America,2000,Earthquakes,78.7
+2465,South America,2000,VolcanicActivities,2.1
+2466,South America,2000,Floods,308.7
+2467,South America,2000,MassMovements,7.2
+2468,South America,2000,Storms,22.8
+2469,South America,2000,Landslides,79.1
+2470,South America,2000,Wildfires,1.6
+2471,South America,2000,ExtremeTemperature,85.6
+2472,South America,2010,Drought,0.8
+2473,South America,2010,Earthquakes,128.4
+2474,South America,2010,Floods,389.1
+2475,South America,2010,Storms,8.5
+2476,South America,2010,Landslides,101.9
+2477,South America,2010,Wildfires,7.9
+2478,South America,2010,ExtremeTemperature,132
+2479,South Korea,1930,Storms,110.4
+2480,South Korea,1950,Floods,30.9
+2481,South Korea,1950,Storms,67
+2482,South Korea,1950,Landslides,10.3
+2483,South Korea,1960,Floods,136.5
+2484,South Korea,1960,Storms,31.3
+2485,South Korea,1960,Landslides,11.6
+2486,South Korea,1970,Floods,111.7
+2487,South Korea,1970,Storms,26.3
+2488,South Korea,1970,Landslides,2.5
+2489,South Korea,1980,Floods,21.6
+2490,South Korea,1980,Storms,116.4
+2491,South Korea,1980,Landslides,7.2
+2492,South Korea,1990,Floods,75.3
+2493,South Korea,1990,Storms,33.6
+2494,South Korea,1990,Landslides,3
+2495,South Korea,1990,ExtremeTemperature,4
+2496,South Korea,2000,Floods,19.8
+2497,South Korea,2000,Storms,42.3
+2498,South Korea,2000,Wildfires,0.2
+2499,South Korea,2010,Floods,7.9
+2500,South Korea,2010,Storms,8.7
+2501,South Korea,2010,Landslides,5.9
+2502,South Korea,2010,Wildfires,0.1
+2503,South Korea,2010,ExtremeTemperature,0.6
+2504,South Sudan,2000,Floods,1.7
+2505,South Sudan,2010,Floods,14.9
+2506,South Sudan,2010,Wildfires,5
+2507,Soviet Union,1900,Earthquakes,456.2
+2508,Soviet Union,1920,Drought,120000
+2509,Soviet Union,1920,Storms,2.3
+2510,Soviet Union,1940,Earthquakes,11390
+2511,Soviet Union,1940,Landslides,1200
+2512,Soviet Union,1960,Earthquakes,1
+2513,Soviet Union,1960,Landslides,14.5
+2514,Soviet Union,1970,Landslides,1.3
+2515,Soviet Union,1980,Earthquakes,2530.6
+2516,Soviet Union,1980,Floods,12.7
+2517,Soviet Union,1980,MassMovements,5.2
+2518,Soviet Union,1980,Storms,40
+2519,Soviet Union,1980,Landslides,12.4
+2520,Soviet Union,1990,Earthquakes,27.9
+2521,Soviet Union,1990,Floods,2.1
+2522,Soviet Union,1990,MassMovements,5
+2523,Soviet Union,1990,Storms,4.1
+2524,Soviet Union,1990,Landslides,4.3
+2525,Spain,1940,Storms,2
+2526,Spain,1950,Earthquakes,1.1
+2527,Spain,1950,Floods,12.7
+2528,Spain,1950,Storms,2.6
+2529,Spain,1960,Floods,44.5
+2530,Spain,1970,Floods,52.2
+2531,Spain,1970,Storms,1.9
+2532,Spain,1970,ExtremeTemperature,40
+2533,Spain,1980,Floods,13.9
+2534,Spain,1980,Storms,4.2
+2535,Spain,1980,Wildfires,1.7
+2536,Spain,1980,ExtremeTemperature,4
+2537,Spain,1990,Floods,1.6
+2538,Spain,1990,Storms,4.8
+2539,Spain,1990,Landslides,8.4
+2540,Spain,1990,Wildfires,2
+2541,Spain,1990,ExtremeTemperature,3
+2542,Spain,2000,Floods,5.8
+2543,Spain,2000,Storms,5.8
+2544,Spain,2000,Wildfires,2.9
+2545,Spain,2000,ExtremeTemperature,1515.9
+2546,Spain,2010,Earthquakes,1
+2547,Spain,2010,Floods,5.6
+2548,Spain,2010,Storms,1.6
+2549,Spain,2010,Wildfires,0.8
+2550,Spain,2010,ExtremeTemperature,1.1
+2551,Sri Lanka,1950,Storms,20
+2552,Sri Lanka,1960,Floods,10.9
+2553,Sri Lanka,1960,Storms,20.6
+2554,Sri Lanka,1970,Floods,1
+2555,Sri Lanka,1970,Storms,74
+2556,Sri Lanka,1970,Landslides,5.4
+2557,Sri Lanka,1980,Floods,48.3
+2558,Sri Lanka,1990,Floods,10.5
+2559,Sri Lanka,1990,Landslides,6.5
+2560,Sri Lanka,2000,Earthquakes,3539.9
+2561,Sri Lanka,2000,Floods,36.3
+2562,Sri Lanka,2000,Storms,1.4
+2563,Sri Lanka,2010,Floods,93.7
+2564,Sri Lanka,2010,Storms,5.6
+2565,Sri Lanka,2010,Landslides,24.1
+2566,Sudan,1970,Floods,3.4
+2567,Sudan,1980,Drought,15000
+2568,Sudan,1980,Floods,9.6
+2569,Sudan,1990,Earthquakes,0.3
+2570,Sudan,1990,Floods,33
+2571,Sudan,1990,Wildfires,4.7
+2572,Sudan,2000,Floods,22.5
+2573,Sudan,2000,Storms,3.3
+2574,Sudan,2010,Floods,52.6
+2575,Sudan,2010,Storms,2
+2576,Sudan,2010,ExtremeTemperature,1.6
+2577,Suriname,2000,Floods,0.5
+2578,Sweden,1970,Landslides,1.3
+2579,Sweden,1980,Floods,1.1
+2580,Sweden,1990,Storms,0.3
+2581,Sweden,2000,Storms,0.8
+2582,Sweden,2010,Storms,0.7
+2583,Switzerland,1950,Landslides,9.2
+2584,Switzerland,1960,Landslides,11
+2585,Switzerland,1970,Landslides,4.3
+2586,Switzerland,1980,Storms,0.1
+2587,Switzerland,1990,Floods,0.3
+2588,Switzerland,1990,Storms,1.9
+2589,Switzerland,1990,Landslides,3
+2590,Switzerland,2000,Floods,0.7
+2591,Switzerland,2000,Storms,0.2
+2592,Switzerland,2000,Landslides,2
+2593,Switzerland,2000,ExtremeTemperature,103.9
+2594,Switzerland,2010,MassMovements,0.8
+2595,Switzerland,2010,Storms,0.6
+2596,Switzerland,2010,ExtremeTemperature,1.1
+2597,Syria,2000,Floods,0.6
+2598,Syria,2000,Storms,3.2
+2599,Syria,2000,Landslides,8
+2600,Syria,2010,Floods,0.2
+2601,Syria,2010,Storms,1.3
+2602,Taiwan,1900,Earthquakes,143
+2603,Taiwan,1910,Earthquakes,29.5
+2604,Taiwan,1910,Storms,100
+2605,Taiwan,1920,Earthquakes,0.5
+2606,Taiwan,1920,Storms,100
+2607,Taiwan,1930,Earthquakes,603.6
+2608,Taiwan,1940,Earthquakes,37.7
+2609,Taiwan,1950,Earthquakes,10.1
+2610,Taiwan,1950,Storms,124.4
+2611,Taiwan,1960,Earthquakes,12.2
+2612,Taiwan,1960,Storms,84.1
+2613,Taiwan,1970,Floods,4.5
+2614,Taiwan,1970,Storms,6.1
+2615,Taiwan,1980,Earthquakes,1.3
+2616,Taiwan,1980,Floods,3.1
+2617,Taiwan,1980,Storms,24.7
+2618,Taiwan,1980,Landslides,1.4
+2619,Taiwan,1990,Earthquakes,226.5
+2620,Taiwan,1990,Floods,1.3
+2621,Taiwan,1990,Storms,21.3
+2622,Taiwan,2000,Earthquakes,0.6
+2623,Taiwan,2000,Floods,1.9
+2624,Taiwan,2000,Storms,111
+2625,Taiwan,2010,Earthquakes,20.6
+2626,Taiwan,2010,Floods,1.1
+2627,Taiwan,2010,Storms,8.2
+2628,Taiwan,2010,ExtremeTemperature,8.5
+2629,Tajikistan,1910,Earthquakes,9
+2630,Tajikistan,1930,Earthquakes,17.5
+2631,Tajikistan,1990,Floods,142.4
+2632,Tajikistan,1990,MassMovements,1.2
+2633,Tajikistan,1990,Landslides,29.9
+2634,Tajikistan,2000,Earthquakes,1.7
+2635,Tajikistan,2000,Floods,8.9
+2636,Tajikistan,2000,Landslides,5.6
+2637,Tajikistan,2010,Earthquakes,0.4
+2638,Tajikistan,2010,Floods,10.9
+2639,Tajikistan,2010,Landslides,2.3
+2640,Tajikistan,2010,ExtremeTemperature,0.1
+2641,Tanzania,1960,Earthquakes,0.4
+2642,Tanzania,1960,Floods,4
+2643,Tanzania,1970,Floods,2.5
+2644,Tanzania,1980,Floods,1
+2645,Tanzania,1990,Floods,42.1
+2646,Tanzania,1990,Storms,0.4
+2647,Tanzania,2000,Earthquakes,1.5
+2648,Tanzania,2000,Floods,16.2
+2649,Tanzania,2000,Landslides,1.3
+2650,Tanzania,2010,Earthquakes,1.7
+2651,Tanzania,2010,Floods,17.5
+2652,Tanzania,2010,Storms,4.7
+2653,Thailand,1960,Floods,0.6
+2654,Thailand,1960,Storms,76.9
+2655,Thailand,1970,Floods,33.5
+2656,Thailand,1970,Storms,5
+2657,Thailand,1980,Floods,87.2
+2658,Thailand,1980,Storms,51.3
+2659,Thailand,1990,Floods,51.8
+2660,Thailand,1990,Storms,33.7
+2661,Thailand,1990,Landslides,0.9
+2662,Thailand,2000,Earthquakes,834.5
+2663,Thailand,2000,Floods,96.8
+2664,Thailand,2000,Storms,2.7
+2665,Thailand,2000,Landslides,3.8
+2666,Thailand,2010,Earthquakes,0.2
+2667,Thailand,2010,Floods,143.8
+2668,Thailand,2010,Storms,2.8
+2669,Thailand,2010,ExtremeTemperature,7.7
+2670,Timor,2000,Floods,0.5
+2671,Togo,1990,Floods,0.3
+2672,Togo,2000,Floods,4.7
+2673,Togo,2010,Floods,2.2
+2674,Tonga,1960,Storms,0.2
+2675,Tonga,1970,Earthquakes,0.1
+2676,Tonga,1970,Storms,0.3
+2677,Tonga,1980,Storms,0.7
+2678,Tonga,1990,Storms,0.1
+2679,Tonga,2000,Earthquakes,0.9
+2680,Tonga,2010,Storms,0.1
+2681,Trinidad and Tobago,1930,Storms,1.3
+2682,Trinidad and Tobago,1960,Storms,2.4
+2683,Trinidad and Tobago,1970,Storms,0.2
+2684,Trinidad and Tobago,1990,Floods,0.5
+2685,Trinidad and Tobago,2000,Storms,0.1
+2686,Trinidad and Tobago,2000,Landslides,0.2
+2687,Tunisia,1950,Earthquakes,1.3
+2688,Tunisia,1960,Floods,62.9
+2689,Tunisia,1970,Floods,11.1
+2690,Tunisia,1980,Floods,14
+2691,Tunisia,1990,Floods,3.7
+2692,Tunisia,2000,Floods,4.5
+2693,Tunisia,2010,Floods,1.3
+2694,Turkey,1900,Earthquakes,640
+2695,Turkey,1910,Earthquakes,492.3
+2696,Turkey,1920,Earthquakes,36.3
+2697,Turkey,1930,Earthquakes,3384.4
+2698,Turkey,1940,Earthquakes,1445
+2699,Turkey,1940,Floods,33.2
+2700,Turkey,1950,Earthquakes,158.1
+2701,Turkey,1950,Floods,23.7
+2702,Turkey,1960,Earthquakes,281
+2703,Turkey,1960,Floods,14.7
+2704,Turkey,1970,Earthquakes,828.2
+2705,Turkey,1970,Floods,3.3
+2706,Turkey,1970,Storms,3
+2707,Turkey,1970,Landslides,6.7
+2708,Turkey,1980,Earthquakes,136.7
+2709,Turkey,1980,Floods,9.8
+2710,Turkey,1980,Landslides,10.4
+2711,Turkey,1980,Wildfires,1.3
+2712,Turkey,1980,ExtremeTemperature,3
+2713,Turkey,1990,Earthquakes,1887.6
+2714,Turkey,1990,Floods,26.6
+2715,Turkey,1990,MassMovements,26.1
+2716,Turkey,1990,Storms,3.1
+2717,Turkey,1990,Landslides,20.9
+2718,Turkey,2000,Earthquakes,25.2
+2719,Turkey,2000,Floods,20.8
+2720,Turkey,2000,Storms,3.7
+2721,Turkey,2000,Landslides,3.9
+2722,Turkey,2000,Wildfires,0.2
+2723,Turkey,2000,ExtremeTemperature,7
+2724,Turkey,2010,Earthquakes,69.9
+2725,Turkey,2010,Floods,5.6
+2726,Turkey,2010,Landslides,4.4
+2727,Turkmenistan,2000,Earthquakes,1.1
+2728,Turks and Caicos Islands,2000,Storms,0.4
+2729,Tuvalu,1970,Storms,0.6
+2730,Uganda,1960,Earthquakes,10.4
+2731,Uganda,1990,Drought,11.5
+2732,Uganda,1990,Earthquakes,0.7
+2733,Uganda,1990,Floods,10
+2734,Uganda,1990,Landslides,2
+2735,Uganda,2000,Drought,7.9
+2736,Uganda,2000,Floods,12.8
+2737,Uganda,2000,Landslides,1.1
+2738,Uganda,2010,Earthquakes,0.4
+2739,Uganda,2010,Floods,18.4
+2740,Uganda,2010,Storms,2.3
+2741,Uganda,2010,Landslides,56
+2742,Ukraine,1990,Floods,2.7
+2743,Ukraine,1990,Storms,1.1
+2744,Ukraine,2000,Floods,4.9
+2745,Ukraine,2000,Storms,1
+2746,Ukraine,2000,ExtremeTemperature,83.3
+2747,Ukraine,2010,Floods,1.1
+2748,Ukraine,2010,ExtremeTemperature,26.9
+2749,United Kingdom,1950,Floods,3.4
+2750,United Kingdom,1950,Fog,400
+2751,United Kingdom,1960,Storms,2
+2752,United Kingdom,1960,Landslides,14
+2753,United Kingdom,1970,Floods,0.6
+2754,United Kingdom,1980,Storms,7.2
+2755,United Kingdom,1990,Floods,1.7
+2756,United Kingdom,1990,Storms,19.1
+2757,United Kingdom,1990,ExtremeTemperature,1.4
+2758,United Kingdom,2000,Floods,2.6
+2759,United Kingdom,2000,Storms,5.5
+2760,United Kingdom,2000,ExtremeTemperature,30.5
+2761,United Kingdom,2010,Floods,1.1
+2762,United Kingdom,2010,Storms,1.9
+2763,United Kingdom,2010,ExtremeTemperature,76.5
+2764,United States,1900,Earthquakes,70
+2765,United States,1900,Floods,32.2
+2766,United States,1900,Storms,678.7
+2767,United States,1910,Earthquakes,0.6
+2768,United States,1910,Storms,182.1
+2769,United States,1910,Wildfires,100
+2770,United States,1920,Earthquakes,2.6
+2771,United States,1920,Floods,24.6
+2772,United States,1920,Storms,315.4
+2773,United States,1930,Earthquakes,11.6
+2774,United States,1930,Floods,33.7
+2775,United States,1930,Storms,187.5
+2776,United States,1930,Landslides,20
+2777,United States,1930,ExtremeTemperature,119.3
+2778,United States,1940,Earthquakes,18.2
+2779,United States,1940,Floods,5.5
+2780,United States,1940,Storms,110.6
+2781,United States,1940,Wildfires,12.1
+2782,United States,1950,Earthquakes,4.2
+2783,United States,1950,Floods,14.8
+2784,United States,1950,Storms,251.8
+2785,United States,1950,Wildfires,1.1
+2786,United States,1950,ExtremeTemperature,17.6
+2787,United States,1960,Earthquakes,19.9
+2788,United States,1960,Floods,22.4
+2789,United States,1960,Storms,277.5
+2790,United States,1960,ExtremeTemperature,41.2
+2791,United States,1970,Earthquakes,6.5
+2792,United States,1970,Floods,59.9
+2793,United States,1970,Storms,144.7
+2794,United States,1970,Landslides,40
+2795,United States,1970,ExtremeTemperature,3.2
+2796,United States,1980,Earthquakes,7.7
+2797,United States,1980,VolcanicActivities,9
+2798,United States,1980,Floods,14
+2799,United States,1980,Storms,184.4
+2800,United States,1980,ExtremeTemperature,166
+2801,United States,1990,Earthquakes,6.5
+2802,United States,1990,Floods,38.2
+2803,United States,1990,Storms,184.9
+2804,United States,1990,Wildfires,4.8
+2805,United States,1990,ExtremeTemperature,115.6
+2806,United States,2000,Earthquakes,0.3
+2807,United States,2000,Floods,29.9
+2808,United States,2000,Storms,331.6
+2809,United States,2000,Landslides,1.5
+2810,United States,2000,Wildfires,5.5
+2811,United States,2000,ExtremeTemperature,38.7
+2812,United States,2010,Earthquakes,0.1
+2813,United States,2010,Floods,27.1
+2814,United States,2010,Storms,232.1
+2815,United States,2010,Landslides,6.4
+2816,United States,2010,Wildfires,21.5
+2817,United States,2010,ExtremeTemperature,18.5
+2818,United States Virgin Islands,1990,Storms,1
+2819,United States Virgin Islands,2010,Storms,0.7
+2820,Upper middle income,1900,Earthquakes,3035.7
+2821,Upper middle income,1900,VolcanicActivities,856.5
+2822,Upper middle income,1900,Floods,30
+2823,Upper middle income,1900,Storms,6.5
+2824,Upper middle income,1900,Landslides,5.3
+2825,Upper middle income,1910,Earthquakes,3947.2
+2826,Upper middle income,1910,VolcanicActivities,500
+2827,Upper middle income,1910,Floods,10000
+2828,Upper middle income,1910,Storms,5019.9
+2829,Upper middle income,1920,Drought,350000
+2830,Upper middle income,1920,Earthquakes,24071.5
+2831,Upper middle income,1920,Storms,10560.4
+2832,Upper middle income,1920,Landslides,10
+2833,Upper middle income,1920,Wildfires,6
+2834,Upper middle income,1930,Earthquakes,6167.4
+2835,Upper middle income,1930,VolcanicActivities,266.9
+2836,Upper middle income,1930,Floods,436016.4
+2837,Upper middle income,1930,MassMovements,4
+2838,Upper middle income,1930,Storms,824.5
+2839,Upper middle income,1930,Landslides,69
+2840,Upper middle income,1940,Earthquakes,3578.7
+2841,Upper middle income,1940,VolcanicActivities,200
+2842,Upper middle income,1940,Floods,9798.7
+2843,Upper middle income,1940,Storms,195.2
+2844,Upper middle income,1940,Landslides,500
+2845,Upper middle income,1950,Earthquakes,968.6
+2846,Upper middle income,1950,VolcanicActivities,133.7
+2847,Upper middle income,1950,Floods,204803.7
+2848,Upper middle income,1950,Storms,630.3
+2849,Upper middle income,1950,Landslides,88.8
+2850,Upper middle income,1950,ExtremeTemperature,15.8
+2851,Upper middle income,1960,Drought,800
+2852,Upper middle income,1960,Earthquakes,3075.7
+2853,Upper middle income,1960,VolcanicActivities,288
+2854,Upper middle income,1960,Floods,313.8
+2855,Upper middle income,1960,MassMovements,200
+2856,Upper middle income,1960,Storms,535.4
+2857,Upper middle income,1960,Landslides,101.3
+2858,Upper middle income,1960,ExtremeTemperature,20.3
+2859,Upper middle income,1970,Drought,6.3
+2860,Upper middle income,1970,Earthquakes,40761.4
+2861,Upper middle income,1970,VolcanicActivities,30.2
+2862,Upper middle income,1970,Floods,2335.6
+2863,Upper middle income,1970,Storms,453.2
+2864,Upper middle income,1970,Landslides,265.8
+2865,Upper middle income,1970,ExtremeTemperature,22.6
+2866,Upper middle income,1980,Drought,201.4
+2867,Upper middle income,1980,Earthquakes,2154.6
+2868,Upper middle income,1980,VolcanicActivities,2212.9
+2869,Upper middle income,1980,Floods,2330.8
+2870,Upper middle income,1980,MassMovements,58.8
+2871,Upper middle income,1980,Storms,529.4
+2872,Upper middle income,1980,Landslides,376.7
+2873,Upper middle income,1980,Wildfires,20.4
+2874,Upper middle income,1980,ExtremeTemperature,21.7
+2875,Upper middle income,1990,Drought,268.4
+2876,Upper middle income,1990,Earthquakes,6988.4
+2877,Upper middle income,1990,VolcanicActivities,16.3
+2878,Upper middle income,1990,Floods,5416.3
+2879,Upper middle income,1990,MassMovements,55.3
+2880,Upper middle income,1990,Storms,909.1
+2881,Upper middle income,1990,Landslides,382.6
+2882,Upper middle income,1990,Wildfires,52.8
+2883,Upper middle income,1990,ExtremeTemperature,169.7
+2884,Upper middle income,2000,Drought,17.9
+2885,Upper middle income,2000,Earthquakes,30050.9
+2886,Upper middle income,2000,VolcanicActivities,2.3
+2887,Upper middle income,2000,Floods,1515.7
+2888,Upper middle income,2000,MassMovements,16.3
+2889,Upper middle income,2000,Storms,571
+2890,Upper middle income,2000,Landslides,329
+2891,Upper middle income,2000,Wildfires,13.3
+2892,Upper middle income,2000,ExtremeTemperature,270.8
+2893,Upper middle income,2010,Drought,1.9
+2894,Upper middle income,2010,Earthquakes,1256.8
+2895,Upper middle income,2010,VolcanicActivities,127.9
+2896,Upper middle income,2010,Floods,1400.6
+2897,Upper middle income,2010,MassMovements,4.6
+2898,Upper middle income,2010,Storms,282.2
+2899,Upper middle income,2010,Landslides,475.7
+2900,Upper middle income,2010,Wildfires,22
+2901,Upper middle income,2010,ExtremeTemperature,5757.4
+2902,Uruguay,1960,Floods,0.8
+2903,Uruguay,1990,Floods,0.1
+2904,Uruguay,1990,Storms,0.2
+2905,Uruguay,2000,Floods,0.3
+2906,Uruguay,2000,Storms,0.9
+2907,Uruguay,2000,ExtremeTemperature,0.7
+2908,Uruguay,2010,Floods,1
+2909,Uruguay,2010,ExtremeTemperature,0.4
+2910,Uzbekistan,1990,Earthquakes,0.9
+2911,Uzbekistan,1990,MassMovements,0.1
+2912,Uzbekistan,1990,Landslides,2.4
+2913,Uzbekistan,2010,Earthquakes,1.3
+2914,Vanuatu,1950,Storms,10
+2915,Vanuatu,1970,Storms,0.4
+2916,Vanuatu,1980,Storms,5.7
+2917,Vanuatu,1980,Landslides,0.1
+2918,Vanuatu,1990,Earthquakes,1.2
+2919,Vanuatu,1990,Storms,3.8
+2920,Vanuatu,2000,Storms,0.4
+2921,Vanuatu,2010,Storms,2.3
+2922,Venezuela,1950,Earthquakes,10
+2923,Venezuela,1960,Earthquakes,24
+2924,Venezuela,1960,Landslides,3
+2925,Venezuela,1980,Earthquakes,0.3
+2926,Venezuela,1980,Floods,14.4
+2927,Venezuela,1980,Storms,1.1
+2928,Venezuela,1980,Landslides,11.6
+2929,Venezuela,1990,Earthquakes,8
+2930,Venezuela,1990,Floods,3003.4
+2931,Venezuela,1990,Storms,10
+2932,Venezuela,1990,Landslides,1.8
+2933,Venezuela,2000,Floods,16
+2934,Venezuela,2000,Storms,0.5
+2935,Venezuela,2010,Floods,6.6
+2936,Venezuela,2010,Storms,0.8
+2937,Vietnam,1950,Storms,105.6
+2938,Vietnam,1960,Floods,43.1
+2939,Vietnam,1960,Storms,700
+2940,Vietnam,1970,Floods,31.1
+2941,Vietnam,1970,Storms,21.2
+2942,Vietnam,1980,Floods,38.5
+2943,Vietnam,1980,Storms,373.9
+2944,Vietnam,1990,Floods,201.6
+2945,Vietnam,1990,Storms,554.1
+2946,Vietnam,1990,Landslides,22.1
+2947,Vietnam,2000,Floods,200
+2948,Vietnam,2000,Storms,131.9
+2949,Vietnam,2000,Landslides,10.9
+2950,Vietnam,2010,Floods,86.7
+2951,Vietnam,2010,Storms,50.8
+2952,Wallis and Futuna,1980,Storms,0.1
+2953,Wallis and Futuna,1990,Earthquakes,0.5
+3053,Yemen,1990,Earthquakes,1
+3054,Yemen,1990,Floods,44.6
+3055,Yemen,2000,VolcanicActivities,0.6
+3056,Yemen,2000,Floods,33.6
+3057,Yemen,2000,Storms,3
+3058,Yemen,2000,Landslides,7.6
+3059,Yemen,2010,Floods,15.8
+3060,Yemen,2010,Storms,7.5
+3061,Yemen,2010,Landslides,2
+3062,Yugoslavia,1940,Earthquakes,1.9
+3063,Yugoslavia,1960,Earthquakes,109.3
+3064,Yugoslavia,1960,Floods,0.3
+3065,Yugoslavia,1970,Earthquakes,12.1
+3066,Yugoslavia,1970,Floods,2.2
+3067,Yugoslavia,1980,Earthquakes,1.2
+3068,Yugoslavia,1980,Floods,7
+3069,Yugoslavia,1980,ExtremeTemperature,3.8
+3070,Zambia,1970,Floods,1.1
+3071,Zambia,2000,Floods,6
+3072,Zambia,2010,Floods,0.4
+3073,Zambia,2010,Landslides,0.9
+3074,Zimbabwe,1970,Storms,1.1
+3075,Zimbabwe,1990,Floods,3.6
+3076,Zimbabwe,2000,Floods,11.2
+3077,Zimbabwe,2000,Storms,0.8
+3078,Zimbabwe,2010,Floods,16.5
+3079,Zimbabwe,2010,Storms,92
